@@ -1,30 +1,30 @@
 
 ## CCF Conference DDL
 
-> Update: 2024-05-16 23:12:41
+> Update: 2024-05-16 23:56:55
 >
-> From: https://ddl.tjunsl.com/conf.html
+> From: https://ccf.tjunsl.com/
 
-| »áÒé | ÀàĞÍ | CCF | ½ØÖ¹Ê±¼ä |
+| ä¼šè®® | ç±»å‹ | CCF | æˆªæ­¢æ—¶é—´ |
 | :--: | :--: | :--: | :--: |
-| [ACM SIGGRAPH ASIA2024](https://asia.siggraph.org/2024/) | ¼ÆËã»úÍ¼ĞÎÑ§Óë¶àÃ½Ìå | A | 2024-05-19 23:59:00 (03 days) |  |
-| [EuroSys2025](https://www.eurosys.org/news/eurosys-2025) | ¼ÆËã»úÌåÏµ½á¹¹/²¢ĞĞÓë·Ö²¼¼ÆËã/´æ´¢ÏµÍ³ | A | 2024-05-21 23:59:59 (05 days) |  |
-| [NeurIPS2024](https://neurips.cc/Conferences/2024) | ÈË¹¤ÖÇÄÜ | A | 2024-05-22 20:00:00 (06 days) |  |
-| [ASIACRYPT2024](https://asiacrypt.iacr.org/2024/) | ÍøÂçÓëĞÅÏ¢°²È« | B | 2024-05-26 11:59:00 (09 days) |  |
-| [VLDB2025](http://www.vldb.org/2025/) | Êı¾İ¿â/Êı¾İÍÚ¾ò/ÄÚÈİ¼ìË÷ | A | 2024-06-01 17:00:00 (16 days) |  |
-| [S&P2025](https://www.ieee-security.org/TC/SP2025/) | ÍøÂçÓëĞÅÏ¢°²È« | A | 2024-06-06 23:59:59 (21 days) |  |
-| [ASE2024](https://conf.researchr.org/home/ase-2024) | Èí¼ş¹¤³Ì/ÏµÍ³Èí¼ş/³ÌĞòÉè¼ÆÓïÑÔ | A | 2024-06-07 23:59:59 (22 days) |  |
-| [FM2024](https://www.fm24.polimi.it/) | Èí¼ş¹¤³Ì/ÏµÍ³Èí¼ş/³ÌĞòÉè¼ÆÓïÑÔ | A | 2024-06-10 23:59:00 (25 days) |  |
-| [ASPLOS2025](https://www.asplos-conference.org/asplos-2025-call-for-papers/) | ¼ÆËã»úÌåÏµ½á¹¹/²¢ĞĞÓë·Ö²¼¼ÆËã/´æ´¢ÏµÍ³ | A | 2024-06-24 23:59:59 (39 days) |  |
-| [NDSS2025](https://www.ndss-symposium.org/ndss2025/) | ÍøÂçÓëĞÅÏ¢°²È« | A | 2024-07-10 23:59:59 (55 days) |  |
-| [SIGMOD2025](https://2025.sigmod.org/) | Êı¾İ¿â/Êı¾İÍÚ¾ò/ÄÚÈİ¼ìË÷ | A | 2024-07-17 23:59:00 (62 days) |  |
-| [UbiComp/ISWC2024](https://www.ubicomp.org/ubicomp-iswc-2024) | ÈË»ú½»»¥ÓëÆÕÊÊ¼ÆËã | A | 2024-08-01 23:59:59 (77 days) |  |
-| [ICSE2025](https://conf.researchr.org/home/icse-2025) | Èí¼ş¹¤³Ì/ÏµÍ³Èí¼ş/³ÌĞòÉè¼ÆÓïÑÔ | A | 2024-08-02 23:59:59 (78 days) |  |
-| [SIGKDD2025](https://kdd2024.kdd.org/research-track-call-for-papers/) | Êı¾İ¿â/Êı¾İÍÚ¾ò/ÄÚÈİ¼ìË÷ | A | 2024-08-08 23:59:59 (84 days) |  |
-| [USENIX Security2025](https://www.usenix.org/conference/usenixsecurity25) | ÍøÂçÓëĞÅÏ¢°²È« | A | 2024-09-04 23:59:59 (03 months) |  |
-| [ESEC/FSE2025](https://conf.researchr.org/home/fse-2025) | Èí¼ş¹¤³Ì/ÏµÍ³Èí¼ş/³ÌĞòÉè¼ÆÓïÑÔ | A | 2024-09-12 23:59:59 (03 months) |  |
-| [FAST2025](https://www.usenix.org/conference/fast25) | ¼ÆËã»úÌåÏµ½á¹¹/²¢ĞĞÓë·Ö²¼¼ÆËã/´æ´¢ÏµÍ³ | A | 2024-09-17 23:59:59 (04 months) |  |
-| [NSDI2025](https://www.usenix.org/conference/nsdi25) | ¼ÆËã»úÍøÂç | A | 2024-09-19 23:59:59 (04 months) |  |
-| [ISSTA2025](https://conf.researchr.org/home/issta-2025) | Èí¼ş¹¤³Ì/ÏµÍ³Èí¼ş/³ÌĞòÉè¼ÆÓïÑÔ | A | 2024-10-31 23:59:59 (05 months) |  |
+| [ACM SIGGRAPH ASIA2024](https://asia.siggraph.org/2024/) | è®¡ç®—æœºå›¾å½¢å­¦ä¸å¤šåª’ä½“ | A | 2024-05-19 23:59:00 (03 days) |  |
+| [EuroSys2025](https://www.eurosys.org/news/eurosys-2025) | è®¡ç®—æœºä½“ç³»ç»“æ„/å¹¶è¡Œä¸åˆ†å¸ƒè®¡ç®—/å­˜å‚¨ç³»ç»Ÿ | A | 2024-05-21 23:59:59 (05 days) |  |
+| [NeurIPS2024](https://neurips.cc/Conferences/2024) | äººå·¥æ™ºèƒ½ | A | 2024-05-22 20:00:00 (06 days) |  |
+| [ASIACRYPT2024](https://asiacrypt.iacr.org/2024/) | ç½‘ç»œä¸ä¿¡æ¯å®‰å…¨ | B | 2024-05-26 11:59:00 (09 days) |  |
+| [VLDB2025](http://www.vldb.org/2025/) | æ•°æ®åº“/æ•°æ®æŒ–æ˜/å†…å®¹æ£€ç´¢ | A | 2024-06-01 17:00:00 (16 days) |  |
+| [S&P2025](https://www.ieee-security.org/TC/SP2025/) | ç½‘ç»œä¸ä¿¡æ¯å®‰å…¨ | A | 2024-06-06 23:59:59 (21 days) |  |
+| [ASE2024](https://conf.researchr.org/home/ase-2024) | è½¯ä»¶å·¥ç¨‹/ç³»ç»Ÿè½¯ä»¶/ç¨‹åºè®¾è®¡è¯­è¨€ | A | 2024-06-07 23:59:59 (22 days) |  |
+| [FM2024](https://www.fm24.polimi.it/) | è½¯ä»¶å·¥ç¨‹/ç³»ç»Ÿè½¯ä»¶/ç¨‹åºè®¾è®¡è¯­è¨€ | A | 2024-06-10 23:59:00 (25 days) |  |
+| [ASPLOS2025](https://www.asplos-conference.org/asplos-2025-call-for-papers/) | è®¡ç®—æœºä½“ç³»ç»“æ„/å¹¶è¡Œä¸åˆ†å¸ƒè®¡ç®—/å­˜å‚¨ç³»ç»Ÿ | A | 2024-06-24 23:59:59 (39 days) |  |
+| [NDSS2025](https://www.ndss-symposium.org/ndss2025/) | ç½‘ç»œä¸ä¿¡æ¯å®‰å…¨ | A | 2024-07-10 23:59:59 (55 days) |  |
+| [SIGMOD2025](https://2025.sigmod.org/) | æ•°æ®åº“/æ•°æ®æŒ–æ˜/å†…å®¹æ£€ç´¢ | A | 2024-07-17 23:59:00 (62 days) |  |
+| [UbiComp/ISWC2024](https://www.ubicomp.org/ubicomp-iswc-2024) | äººæœºäº¤äº’ä¸æ™®é€‚è®¡ç®— | A | 2024-08-01 23:59:59 (77 days) |  |
+| [ICSE2025](https://conf.researchr.org/home/icse-2025) | è½¯ä»¶å·¥ç¨‹/ç³»ç»Ÿè½¯ä»¶/ç¨‹åºè®¾è®¡è¯­è¨€ | A | 2024-08-02 23:59:59 (78 days) |  |
+| [SIGKDD2025](https://kdd2024.kdd.org/research-track-call-for-papers/) | æ•°æ®åº“/æ•°æ®æŒ–æ˜/å†…å®¹æ£€ç´¢ | A | 2024-08-08 23:59:59 (84 days) |  |
+| [USENIX Security2025](https://www.usenix.org/conference/usenixsecurity25) | ç½‘ç»œä¸ä¿¡æ¯å®‰å…¨ | A | 2024-09-04 23:59:59 (03 months) |  |
+| [ESEC/FSE2025](https://conf.researchr.org/home/fse-2025) | è½¯ä»¶å·¥ç¨‹/ç³»ç»Ÿè½¯ä»¶/ç¨‹åºè®¾è®¡è¯­è¨€ | A | 2024-09-12 23:59:59 (03 months) |  |
+| [FAST2025](https://www.usenix.org/conference/fast25) | è®¡ç®—æœºä½“ç³»ç»“æ„/å¹¶è¡Œä¸åˆ†å¸ƒè®¡ç®—/å­˜å‚¨ç³»ç»Ÿ | A | 2024-09-17 23:59:59 (04 months) |  |
+| [NSDI2025](https://www.usenix.org/conference/nsdi25) | è®¡ç®—æœºç½‘ç»œ | A | 2024-09-19 23:59:59 (04 months) |  |
+| [ISSTA2025](https://conf.researchr.org/home/issta-2025) | è½¯ä»¶å·¥ç¨‹/ç³»ç»Ÿè½¯ä»¶/ç¨‹åºè®¾è®¡è¯­è¨€ | A | 2024-10-31 23:59:59 (05 months) |  |
 
-Generated by [ccfddl]()
+Generated by [ccf4sc](https://github.com/WWILLV/ccf4sc/)
