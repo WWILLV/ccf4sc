@@ -1,0 +1,6 @@
+{
+    "conf": ["SP","CSS","USS","NDSS"],
+    "rank": "A",
+    "sub":"SC",
+    "remove": {"rank":"C"}
+}
