@@ -33,4 +33,9 @@ jobs:
           git config --local user.name "GitHub Action"
           git add ddl.md
           git commit -m "Update ddl.md"
-          git push
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
