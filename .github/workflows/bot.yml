@@ -20,6 +20,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Install git
+        run: sudo apt-get update && sudo apt-get install -y git
+        
       - name: Run ccfddl.py
         run: python ccfddl.py
 
