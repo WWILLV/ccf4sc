@@ -1,22 +1,22 @@
 
 ## CCF Conference DDL
 
-> Update: 2024-05-16 23:59:02
+> Update: 2024-05-17 07:41:17
 >
 > From: https://ccf.tjunsl.com/
 
 | 会议 | 类型 | CCF | 截止时间 |
 | :--: | :--: | :--: | :--: |
-| [ACM SIGGRAPH ASIA2024](https://asia.siggraph.org/2024/) | 计算机图形学与多媒体 | A | 2024-05-19 23:59:00 (03 days) | 
+| [ACM SIGGRAPH ASIA2024](https://asia.siggraph.org/2024/) | 计算机图形学与多媒体 | A | 2024-05-19 23:59:00 (02 days) | 
 | [EuroSys2025](https://www.eurosys.org/news/eurosys-2025) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-05-21 23:59:59 (05 days) | 
-| [NeurIPS2024](https://neurips.cc/Conferences/2024) | 人工智能 | A | 2024-05-22 20:00:00 (06 days) | 
+| [NeurIPS2024](https://neurips.cc/Conferences/2024) | 人工智能 | A | 2024-05-22 20:00:00 (05 days) | 
 | [ASIACRYPT2024](https://asiacrypt.iacr.org/2024/) | 网络与信息安全 | B | 2024-05-26 11:59:00 (09 days) | 
-| [VLDB2025](http://www.vldb.org/2025/) | 数据库/数据挖掘/内容检索 | A | 2024-06-01 17:00:00 (16 days) | 
-| [S&P2025](https://www.ieee-security.org/TC/SP2025/) | 网络与信息安全 | A | 2024-06-06 23:59:59 (21 days) | 
+| [VLDB2025](http://www.vldb.org/2025/) | 数据库/数据挖掘/内容检索 | A | 2024-06-01 17:00:00 (15 days) | 
+| [S&P2025](https://www.ieee-security.org/TC/SP2025/) | 网络与信息安全 | A | 2024-06-06 23:59:59 (20 days) | 
 | [ASE2024](https://conf.researchr.org/home/ase-2024) | 软件工程/系统软件/程序设计语言 | A | 2024-06-07 23:59:59 (22 days) | 
 | [FM2024](https://www.fm24.polimi.it/) | 软件工程/系统软件/程序设计语言 | A | 2024-06-10 23:59:00 (25 days) | 
 | [ASPLOS2025](https://www.asplos-conference.org/asplos-2025-call-for-papers/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-06-24 23:59:59 (39 days) | 
-| [NDSS2025](https://www.ndss-symposium.org/ndss2025/) | 网络与信息安全 | A | 2024-07-10 23:59:59 (55 days) | 
+| [NDSS2025](https://www.ndss-symposium.org/ndss2025/) | 网络与信息安全 | A | 2024-07-10 23:59:59 (54 days) | 
 | [SIGMOD2025](https://2025.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2024-07-17 23:59:00 (62 days) | 
 | [UbiComp/ISWC2024](https://www.ubicomp.org/ubicomp-iswc-2024) | 人机交互与普适计算 | A | 2024-08-01 23:59:59 (77 days) | 
 | [ICSE2025](https://conf.researchr.org/home/icse-2025) | 软件工程/系统软件/程序设计语言 | A | 2024-08-02 23:59:59 (78 days) | 
