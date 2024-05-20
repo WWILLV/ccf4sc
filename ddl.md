@@ -1,26 +1,25 @@
 
 ## CCF Conference DDL
 
-> Update: 2024-05-19 09:16:10
+> Update: 2024-05-20 09:12:30
 >
 > From: https://ccf.tjunsl.com/
 
 | 会议 | 类型 | CCF | 截止时间 |
 | :--: | :--: | :--: | :--: |
-| [ACM SIGGRAPH ASIA2024](https://asia.siggraph.org/2024/) | 计算机图形学与多媒体 | A | 2024-05-19 23:59:00 (22:54:50) | 
-| [EuroSys2025](https://www.eurosys.org/news/eurosys-2025) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-05-21 23:59:59 (03 days) | 
-| [NeurIPS2024](https://neurips.cc/Conferences/2024) | 人工智能 | A | 2024-05-22 20:00:00 (03 days) | 
-| [ASIACRYPT2024](https://asiacrypt.iacr.org/2024/) | 网络与信息安全 | B | 2024-05-26 11:59:00 (07 days) | 
-| [VLDB2025](http://www.vldb.org/2025/) | 数据库/数据挖掘/内容检索 | A | 2024-06-01 17:00:00 (13 days) | 
-| [S&P2025](https://www.ieee-security.org/TC/SP2025/) | 网络与信息安全 | A | 2024-06-06 23:59:59 (18 days) | 
-| [ASE2024](https://conf.researchr.org/home/ase-2024) | 软件工程/系统软件/程序设计语言 | A | 2024-06-07 23:59:59 (20 days) | 
-| [FM2024](https://www.fm24.polimi.it/) | 软件工程/系统软件/程序设计语言 | A | 2024-06-10 23:59:00 (23 days) | 
-| [ASPLOS2025](https://www.asplos-conference.org/asplos-2025-call-for-papers/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-06-24 23:59:59 (37 days) | 
-| [NDSS2025](https://www.ndss-symposium.org/ndss2025/) | 网络与信息安全 | A | 2024-07-10 23:59:59 (52 days) | 
-| [SIGMOD2025](https://2025.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2024-07-17 23:59:00 (60 days) | 
-| [UbiComp/ISWC2024](https://www.ubicomp.org/ubicomp-iswc-2024) | 人机交互与普适计算 | A | 2024-08-01 23:59:59 (75 days) | 
-| [ICSE2025](https://conf.researchr.org/home/icse-2025) | 软件工程/系统软件/程序设计语言 | A | 2024-08-02 23:59:59 (76 days) | 
-| [SIGKDD2025](https://kdd2024.kdd.org/research-track-call-for-papers/) | 数据库/数据挖掘/内容检索 | A | 2024-08-08 23:59:59 (82 days) | 
+| [EuroSys2025](https://www.eurosys.org/news/eurosys-2025) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-05-21 23:59:59 (02 days) | 
+| [NeurIPS2024](https://neurips.cc/Conferences/2024) | 人工智能 | A | 2024-05-22 20:00:00 (02 days) | 
+| [ASIACRYPT2024](https://asiacrypt.iacr.org/2024/) | 网络与信息安全 | B | 2024-05-26 11:59:00 (06 days) | 
+| [VLDB2025](http://www.vldb.org/2025/) | 数据库/数据挖掘/内容检索 | A | 2024-06-01 17:00:00 (12 days) | 
+| [S&P2025](https://www.ieee-security.org/TC/SP2025/) | 网络与信息安全 | A | 2024-06-06 23:59:59 (17 days) | 
+| [ASE2024](https://conf.researchr.org/home/ase-2024) | 软件工程/系统软件/程序设计语言 | A | 2024-06-07 23:59:59 (19 days) | 
+| [FM2024](https://www.fm24.polimi.it/) | 软件工程/系统软件/程序设计语言 | A | 2024-06-10 23:59:00 (22 days) | 
+| [ASPLOS2025](https://www.asplos-conference.org/asplos-2025-call-for-papers/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-06-24 23:59:59 (36 days) | 
+| [NDSS2025](https://www.ndss-symposium.org/ndss2025/) | 网络与信息安全 | A | 2024-07-10 23:59:59 (51 days) | 
+| [SIGMOD2025](https://2025.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2024-07-17 23:59:00 (59 days) | 
+| [UbiComp/ISWC2024](https://www.ubicomp.org/ubicomp-iswc-2024) | 人机交互与普适计算 | A | 2024-08-01 23:59:59 (74 days) | 
+| [ICSE2025](https://conf.researchr.org/home/icse-2025) | 软件工程/系统软件/程序设计语言 | A | 2024-08-02 23:59:59 (75 days) | 
+| [SIGKDD2025](https://kdd2024.kdd.org/research-track-call-for-papers/) | 数据库/数据挖掘/内容检索 | A | 2024-08-08 23:59:59 (81 days) | 
 | [USENIX Security2025](https://www.usenix.org/conference/usenixsecurity25) | 网络与信息安全 | A | 2024-09-04 23:59:59 (03 months) | 
 | [ESEC/FSE2025](https://conf.researchr.org/home/fse-2025) | 软件工程/系统软件/程序设计语言 | A | 2024-09-12 23:59:59 (03 months) | 
 | [FAST2025](https://www.usenix.org/conference/fast25) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-09-17 23:59:59 (04 months) | 
