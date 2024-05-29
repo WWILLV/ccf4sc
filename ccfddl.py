@@ -48,12 +48,12 @@ def format_duraton(ddl_time: datetime, now: datetime) -> str:
 
 
 def markdown_gen(table):
-    md = """
+    md = f"""
 ## CCF Conference DDL
 
 > Update: {datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")}
 >
-> From: https://ccf.tjunsl.com/
+> From: https://ccf.tjunsl.com/"""+"""
 
 <span id="time" style="font-size:24px"></span>
 <script>
