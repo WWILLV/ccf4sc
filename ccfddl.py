@@ -48,17 +48,19 @@ def format_duraton(ddl_time: datetime, now: datetime) -> str:
 
 
 def markdown_gen(table):
-    md = f"""
+    md = """
 ## CCF Conference DDL
 
 > Update: {datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")}
 >
 > From: https://ccf.tjunsl.com/
 
-<a href="https://time.is/China" id="time_is_link" rel="nofollow" style="font-size:24px">Now: </a>
+<span style="font-size:24px">Now: </span>
 <span id="China_z43d" style="font-size:24px"></span>
 <script src="//widget.time.is/t.js"></script>
 <script>time_is_widget.init({China_z43d:{}});</script>
+<script>document.body.style.backgroundColor = '#e0f0e9';</script>
+
 
 | 会议 | 类型 | CCF | 截止时间 |
 | :--: | :--: | :--: | :--: |
