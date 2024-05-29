@@ -55,11 +55,14 @@ def markdown_gen(table):
 >
 > From: https://ccf.tjunsl.com/
 
-<span style="font-size:24px">Now: </span>
-<span id="China_z43d" style="font-size:24px"></span>
-<script src="//widget.time.is/t.js"></script>
-<script>time_is_widget.init({China_z43d:{}});</script>
-<script>document.body.style.backgroundColor = '#e0f0e9';</script>
+<span id="time" style="font-size:24px"></span>
+<script>
+function updateTime() {
+  var time_str = "Now: " + (new Date()).toLocaleString();
+  document.getElementById("time").innerHTML =  time_str;
+}
+setInterval(updateTime, 1000);
+</script>
 
 
 | 会议 | 类型 | CCF | 截止时间 |
