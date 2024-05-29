@@ -1,7 +1,7 @@
 
 ## CCF Conference DDL
 
-> Update: {datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")}
+> Update: 2024-05-29 21:27:42
 >
 > From: https://ccf.tjunsl.com/
 
