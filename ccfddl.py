@@ -55,6 +55,11 @@ def markdown_gen(table):
 >
 > From: https://ccf.tjunsl.com/
 
+<script>
+    var now=new Date();
+    document.write("<blockquote><p>Now: "+now.toLocaleString()+"</p></blockquote> ");
+</script>
+
 | 会议 | 类型 | CCF | 截止时间 |
 | :--: | :--: | :--: | :--: |
 """
