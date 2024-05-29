@@ -1,14 +1,16 @@
 
 ## CCF Conference DDL
 
-> Update: 2024-05-29 20:53:12
+> Update: {datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")}
 >
 > From: https://ccf.tjunsl.com/
 
-<script>
-    var now=new Date();
-    document.write("<blockquote><p>Now: "+now.toLocaleString()+"</p></blockquote> ");
-</script>
+<span style="font-size:24px">Now: </span>
+<span id="China_z43d" style="font-size:24px"></span>
+<script src="//widget.time.is/t.js"></script>
+<script>time_is_widget.init({China_z43d:{}});</script>
+<script>document.body.style.backgroundColor = '#e0f0e9';</script>
+
 
 | 会议 | 类型 | CCF | 截止时间 |
 | :--: | :--: | :--: | :--: |
