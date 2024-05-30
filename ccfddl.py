@@ -61,7 +61,7 @@ function updateTime() {
   var time_str = "Now: " + (new Date()).toLocaleString();
   document.getElementById("time").innerHTML =  time_str;
 }
-setInterval(updateTime, 1000);
+setInterval(updateTime, 500);
 </script>
 
 
