@@ -55,6 +55,7 @@ def markdown_gen(table):
 >
 > From: https://ccf.tjunsl.com/"""+"""
 
+<div id='share' onclick="share()">[Share this page]</div>
 <span id="time" style="font-size:24px"></span>
 <script>
 function updateTime() {
@@ -62,6 +63,17 @@ function updateTime() {
   document.getElementById("time").innerHTML =  time_str;
 }
 setInterval(updateTime, 500);
+function share() {
+    if (!navigator.share) {
+        alert("This feature is not supported in your browser.");
+    } else {
+        navigator.share({
+            title: window.location.title,
+            url: window.location.href,
+            text: 'The Latest CCF Conference DDL Data.',
+        });
+    }
+}
 </script>
 
 
