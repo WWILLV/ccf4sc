@@ -157,6 +157,7 @@ def main():
 
     for x in all_conf_ext:
         confs = [conf.lower() for conf in conf_data["conf"]]
+        x.update({"rank": x["rank"].get("ccf")})
         if alpha_id(x["id"]) in confs:
             table.append(add_table(x))
         elif alpha_id(x["sub"]) in conf_data["sub"].lower():
