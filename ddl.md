@@ -1,7 +1,7 @@
 
 ## CCF Conference DDL
 
-> Update: 2024-07-12 09:15:46
+> Update: 2024-07-13 09:16:47
 >
 > From: https://ccf.tjunsl.com/
 
@@ -29,23 +29,22 @@ function share() {
 
 | 会议 | 类型 | CCF | 截止时间 |
 | :--: | :--: | :--: | :--: |
-| [POPL2025](https://conf.researchr.org/home/POPL-2025) | 软件工程/系统软件/程序设计语言 | A | 2024-07-11 23:59:59 (10:44:12) | 
-| [SIGMOD2025](https://2025.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2024-07-17 23:59:00 (06 days) | 
-| [INFOCOM2025](https://infocom2025.ieee-infocom.org/) | 计算机网络 | A | 2024-07-31 23:59:59 (19 days) | 
-| [VLDB2025](http://www.vldb.org/2025/) | 数据库/数据挖掘/内容检索 | A | 2024-08-01 17:00:00 (20 days) | 
-| [UbiComp/ISWC2024](https://www.ubicomp.org/ubicomp-iswc-2024) | 人机交互与普适计算 | A | 2024-08-01 23:59:59 (21 days) | 
-| [HPCA2025](https://hpca-conf.org/2025/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-08-02 23:59:59 (21 days) | 
-| [ICSE2025](https://conf.researchr.org/home/icse-2025) | 软件工程/系统软件/程序设计语言 | A | 2024-08-02 23:59:59 (22 days) | 
-| [ICDE2025](https://icde2025.github.io/) | 数据库/数据挖掘/内容检索 | A | 2024-08-02 23:59:59 (22 days) | 
-| [SIGKDD2025](https://kdd2024.kdd.org/research-track-call-for-papers/) | 数据库/数据挖掘/内容检索 | A | 2024-08-08 23:59:59 (28 days) | 
-| [AAAI2025](https://aaai.org/aaai-conference/save-the-date-aaai-25/) | 人工智能 | A | 2024-08-15 23:59:59 (34 days) | 
-| [USENIX Security2025](https://www.usenix.org/conference/usenixsecurity25) | **网络与信息安全** | A | 2024-09-04 23:59:59 (54 days) | 
-| [ESEC/FSE2025](https://conf.researchr.org/home/fse-2025) | 软件工程/系统软件/程序设计语言 | A | 2024-09-12 23:59:59 (63 days) | 
-| [CHI2025](https://chi2025.acm.org/) | 人机交互与普适计算 | A | 2024-09-12 23:59:59 (63 days) | 
-| [FAST2025](https://www.usenix.org/conference/fast25) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-09-17 23:59:59 (67 days) | 
-| [NSDI2025](https://www.usenix.org/conference/nsdi25) | 计算机网络 | A | 2024-09-19 23:59:59 (69 days) | 
-| [WWW2025](https://www2025.thewebconf.org/) | 交叉/综合/新兴 | A | 2024-10-10 23:59:59 (91 days) | 
-| [ASPLOS2025](https://www.asplos-conference.org/asplos-2025-call-for-papers/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-10-18 23:59:59 (99 days) | 
+| [SIGMOD2025](https://2025.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2024-07-17 23:59:00 (05 days) | 
+| [INFOCOM2025](https://infocom2025.ieee-infocom.org/) | 计算机网络 | A | 2024-07-31 23:59:59 (18 days) | 
+| [VLDB2025](http://www.vldb.org/2025/) | 数据库/数据挖掘/内容检索 | A | 2024-08-01 17:00:00 (19 days) | 
+| [UbiComp/ISWC2024](https://www.ubicomp.org/ubicomp-iswc-2024) | 人机交互与普适计算 | A | 2024-08-01 23:59:59 (20 days) | 
+| [HPCA2025](https://hpca-conf.org/2025/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-08-02 23:59:59 (20 days) | 
+| [ICSE2025](https://conf.researchr.org/home/icse-2025) | 软件工程/系统软件/程序设计语言 | A | 2024-08-02 23:59:59 (21 days) | 
+| [ICDE2025](https://icde2025.github.io/) | 数据库/数据挖掘/内容检索 | A | 2024-08-02 23:59:59 (21 days) | 
+| [SIGKDD2025](https://kdd2024.kdd.org/research-track-call-for-papers/) | 数据库/数据挖掘/内容检索 | A | 2024-08-08 23:59:59 (27 days) | 
+| [AAAI2025](https://aaai.org/aaai-conference/save-the-date-aaai-25/) | 人工智能 | A | 2024-08-15 23:59:59 (33 days) | 
+| [USENIX Security2025](https://www.usenix.org/conference/usenixsecurity25) | **网络与信息安全** | A | 2024-09-04 23:59:59 (53 days) | 
+| [ESEC/FSE2025](https://conf.researchr.org/home/fse-2025) | 软件工程/系统软件/程序设计语言 | A | 2024-09-12 23:59:59 (62 days) | 
+| [CHI2025](https://chi2025.acm.org/) | 人机交互与普适计算 | A | 2024-09-12 23:59:59 (62 days) | 
+| [FAST2025](https://www.usenix.org/conference/fast25) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-09-17 23:59:59 (66 days) | 
+| [NSDI2025](https://www.usenix.org/conference/nsdi25) | 计算机网络 | A | 2024-09-19 23:59:59 (68 days) | 
+| [WWW2025](https://www2025.thewebconf.org/) | 交叉/综合/新兴 | A | 2024-10-10 23:59:59 (90 days) | 
+| [ASPLOS2025](https://www.asplos-conference.org/asplos-2025-call-for-papers/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-10-18 23:59:59 (98 days) | 
 | [EuroSys2025](https://www.eurosys.org/news/eurosys-2025) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-10-22 23:59:59 (03 months) | 
 | [ISSTA2025](https://conf.researchr.org/home/issta-2025) | 软件工程/系统软件/程序设计语言 | A | 2024-10-31 23:59:59 (03 months) | 
 | [S&P2025](https://www.ieee-security.org/TC/SP2025/) | **网络与信息安全** | A | 2024-11-14 23:59:59 (04 months) | 
