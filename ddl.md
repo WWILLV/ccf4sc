@@ -1,7 +1,7 @@
 
 ## CCF Conference DDL
 
-> Update: 2024-09-02 09:23:28
+> Update: 2024-09-03 09:21:22
 >
 > From: https://ccf.tjunsl.com/
 
@@ -29,26 +29,26 @@ function share() {
 
 | 会议 | 类型 | CCF | 截止时间 |
 | :--: | :--: | :--: | :--: |
-| [USENIX Security2025](https://www.usenix.org/conference/usenixsecurity25) | **网络与信息安全** | A | 2024-09-04 23:59:59 (02 days) | 
-| [ESEC/FSE2025](https://conf.researchr.org/home/fse-2025) | 软件工程/系统软件/程序设计语言 | A | 2024-09-12 23:59:59 (11 days) | 
-| [CHI2025](https://chi2025.acm.org/) | 人机交互与普适计算 | A | 2024-09-12 23:59:59 (11 days) | 
-| [NOMS2025](https://noms2025.ieee-noms.org/) | **网络与信息安全** | N | 2024-09-14 19:59:59 (12 days) | 
-| [FAST2025](https://www.usenix.org/conference/fast25) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-09-17 23:59:59 (15 days) | 
-| [IEEE VR2025](https://ieeevr.org/2025/) | 计算机图形学与多媒体 | A | 2024-09-18 23:59:59 (17 days) | 
-| [NSDI2025](https://www.usenix.org/conference/nsdi25) | 计算机网络 | A | 2024-09-19 23:59:59 (17 days) | 
-| [VLDB2025](http://www.vldb.org/2025/) | 数据库/数据挖掘/内容检索 | A | 2024-10-01 17:00:00 (29 days) | 
-| [EUROCRYPT2025](https://eurocrypt.iacr.org/2025/) | **网络与信息安全** | A | 2024-10-02 23:59:59 (31 days) | 
-| [WWW2025](https://www2025.thewebconf.org/) | 交叉/综合/新兴 | A | 2024-10-14 23:59:59 (43 days) | 
-| [SIGMOD2025](https://2025.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2024-10-17 23:59:00 (46 days) | 
-| [ASPLOS2025](https://www.asplos-conference.org/asplos-2025-call-for-papers/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-10-18 23:59:59 (47 days) | 
-| [EuroSys2025](https://www.eurosys.org/news/eurosys-2025) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-10-22 23:59:59 (51 days) | 
-| [ISSTA2025](https://conf.researchr.org/home/issta-2025) | 软件工程/系统软件/程序设计语言 | A | 2024-10-31 23:59:59 (60 days) | 
-| [UbiComp/ISWC2024](https://www.ubicomp.org/ubicomp-iswc-2024) | 人机交互与普适计算 | A | 2024-11-01 23:59:59 (61 days) | 
-| [S&P2025](https://www.ieee-security.org/TC/SP2025/) | **网络与信息安全** | A | 2024-11-14 23:59:59 (73 days) | 
-| [CVPR2025](https://openreview.net/group?id=thecvf.com/CVPR/2025) | 人工智能 | A | 2024-11-15 06:59:59 (74 days) | 
-| [ISCA2025](https://iscaconf.org/isca2025/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-11-15 23:59:59 (75 days) | 
-| [ICDE2025](https://ieee-icde.org/2025/) | 数据库/数据挖掘/内容检索 | A | 2024-11-25 23:59:59 (85 days) | 
-| [DSN2025](https://dsn2025.github.io/) | **网络与信息安全** | B | 2024-12-04 23:59:59 (94 days) | 
+| [USENIX Security2025](https://www.usenix.org/conference/usenixsecurity25) | **网络与信息安全** | A | 2024-09-04 23:59:59 (01 day ) | 
+| [ESEC/FSE2025](https://conf.researchr.org/home/fse-2025) | 软件工程/系统软件/程序设计语言 | A | 2024-09-12 23:59:59 (10 days) | 
+| [CHI2025](https://chi2025.acm.org/) | 人机交互与普适计算 | A | 2024-09-12 23:59:59 (10 days) | 
+| [NOMS2025](https://noms2025.ieee-noms.org/) | **网络与信息安全** | N | 2024-09-14 19:59:59 (11 days) | 
+| [FAST2025](https://www.usenix.org/conference/fast25) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-09-17 23:59:59 (14 days) | 
+| [IEEE VR2025](https://ieeevr.org/2025/) | 计算机图形学与多媒体 | A | 2024-09-18 23:59:59 (16 days) | 
+| [NSDI2025](https://www.usenix.org/conference/nsdi25) | 计算机网络 | A | 2024-09-19 23:59:59 (16 days) | 
+| [VLDB2025](http://www.vldb.org/2025/) | 数据库/数据挖掘/内容检索 | A | 2024-10-01 17:00:00 (28 days) | 
+| [EUROCRYPT2025](https://eurocrypt.iacr.org/2025/) | **网络与信息安全** | A | 2024-10-02 23:59:59 (30 days) | 
+| [WWW2025](https://www2025.thewebconf.org/) | 交叉/综合/新兴 | A | 2024-10-14 23:59:59 (42 days) | 
+| [SIGMOD2025](https://2025.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2024-10-17 23:59:00 (45 days) | 
+| [ASPLOS2025](https://www.asplos-conference.org/asplos-2025-call-for-papers/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-10-18 23:59:59 (46 days) | 
+| [EuroSys2025](https://www.eurosys.org/news/eurosys-2025) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-10-22 23:59:59 (50 days) | 
+| [ISSTA2025](https://conf.researchr.org/home/issta-2025) | 软件工程/系统软件/程序设计语言 | A | 2024-10-31 23:59:59 (59 days) | 
+| [UbiComp/ISWC2024](https://www.ubicomp.org/ubicomp-iswc-2024) | 人机交互与普适计算 | A | 2024-11-01 23:59:59 (60 days) | 
+| [S&P2025](https://www.ieee-security.org/TC/SP2025/) | **网络与信息安全** | A | 2024-11-14 23:59:59 (72 days) | 
+| [CVPR2025](https://openreview.net/group?id=thecvf.com/CVPR/2025) | 人工智能 | A | 2024-11-15 06:59:59 (73 days) | 
+| [ISCA2025](https://iscaconf.org/isca2025/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-11-15 23:59:59 (74 days) | 
+| [ICDE2025](https://ieee-icde.org/2025/) | 数据库/数据挖掘/内容检索 | A | 2024-11-25 23:59:59 (84 days) | 
+| [DSN2025](https://dsn2025.github.io/) | **网络与信息安全** | B | 2024-12-04 23:59:59 (93 days) | 
 | [USENIX ATC2025](https://www.usenix.org/conference/atc25) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-01-14 23:59:59 (04 months) | 
 | [SIGKDD2025](https://kdd2025.kdd.org/) | 数据库/数据挖掘/内容检索 | A | 2025-02-08 23:59:59 (05 months) | 
 
