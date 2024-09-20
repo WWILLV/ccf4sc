@@ -1,7 +1,7 @@
 
 ## CCF Conference DDL
 
-> Update: 2024-09-19 09:24:56
+> Update: 2024-09-20 09:24:50
 >
 > From: https://ccf.tjunsl.com/
 
@@ -29,24 +29,22 @@ function share() {
 
 | 会议 | 类型 | CCF | 截止时间 |
 | :--: | :--: | :--: | :--: |
-| [IEEE VR2025](https://ieeevr.org/2025/) | 计算机图形学与多媒体 | A | 2024-09-18 23:59:59 (10:35:2) | 
-| [NSDI2025](https://www.usenix.org/conference/nsdi25) | 计算机网络 | A | 2024-09-19 23:59:59 (22:39:2) | 
-| [VLDB2025](http://www.vldb.org/2025/) | 数据库/数据挖掘/内容检索 | A | 2024-10-01 17:00:00 (12 days) | 
-| [EUROCRYPT2025](https://eurocrypt.iacr.org/2025/) | **网络与信息安全** | A | 2024-10-02 23:59:59 (14 days) | 
-| [OOPSLA2025](https://2025.splashcon.org/track/OOPSLA) | 软件工程/系统软件/程序设计语言 | A | 2024-10-15 07:59:59 (26 days) | 
-| [WWW2025](https://www2025.thewebconf.org/) | 交叉/综合/新兴 | A | 2024-10-14 23:59:59 (26 days) | 
-| [SIGMOD2025](https://2025.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2024-10-17 23:59:00 (29 days) | 
-| [ASPLOS2025](https://www.asplos-conference.org/asplos-2025-call-for-papers/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-10-18 23:59:59 (30 days) | 
-| [EuroSys2025](https://www.eurosys.org/news/eurosys-2025) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-10-22 23:59:59 (34 days) | 
-| [ISSTA2025](https://conf.researchr.org/home/issta-2025) | 软件工程/系统软件/程序设计语言 | A | 2024-10-31 23:59:59 (43 days) | 
-| [UbiComp/ISWC2024](https://www.ubicomp.org/ubicomp-iswc-2024) | 人机交互与普适计算 | A | 2024-11-01 23:59:59 (44 days) | 
-| [S&P2025](https://www.ieee-security.org/TC/SP2025/) | **网络与信息安全** | A | 2024-11-14 23:59:59 (56 days) | 
-| [CVPR2025](https://openreview.net/group?id=thecvf.com/CVPR/2025) | 人工智能 | A | 2024-11-15 06:59:59 (57 days) | 
-| [PLDI2025](https://pldi25.sigplan.org/) | 软件工程/系统软件/程序设计语言 | A | 2024-11-14 23:59:59 (57 days) | 
-| [ISCA2025](https://iscaconf.org/isca2025/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-11-15 23:59:59 (58 days) | 
-| [ICDE2025](https://ieee-icde.org/2025/) | 数据库/数据挖掘/内容检索 | A | 2024-11-25 23:59:59 (68 days) | 
-| [DSN2025](https://dsn2025.github.io/) | **网络与信息安全** | B | 2024-12-04 23:59:59 (77 days) | 
-| [OSDI2025](https://www.usenix.org/conference/osdi25) | 软件工程/系统软件/程序设计语言 | A | 2024-12-10 22:59:59 (82 days) | 
+| [VLDB2025](http://www.vldb.org/2025/) | 数据库/数据挖掘/内容检索 | A | 2024-10-01 17:00:00 (11 days) | 
+| [EUROCRYPT2025](https://eurocrypt.iacr.org/2025/) | **网络与信息安全** | A | 2024-10-02 23:59:59 (13 days) | 
+| [OOPSLA2025](https://2025.splashcon.org/track/OOPSLA) | 软件工程/系统软件/程序设计语言 | A | 2024-10-15 07:59:59 (25 days) | 
+| [WWW2025](https://www2025.thewebconf.org/) | 交叉/综合/新兴 | A | 2024-10-14 23:59:59 (25 days) | 
+| [SIGMOD2025](https://2025.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2024-10-17 23:59:00 (28 days) | 
+| [ASPLOS2025](https://www.asplos-conference.org/asplos-2025-call-for-papers/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-10-18 23:59:59 (29 days) | 
+| [EuroSys2025](https://www.eurosys.org/news/eurosys-2025) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-10-22 23:59:59 (33 days) | 
+| [ISSTA2025](https://conf.researchr.org/home/issta-2025) | 软件工程/系统软件/程序设计语言 | A | 2024-10-31 23:59:59 (42 days) | 
+| [UbiComp/ISWC2024](https://www.ubicomp.org/ubicomp-iswc-2024) | 人机交互与普适计算 | A | 2024-11-01 23:59:59 (43 days) | 
+| [S&P2025](https://www.ieee-security.org/TC/SP2025/) | **网络与信息安全** | A | 2024-11-14 23:59:59 (55 days) | 
+| [CVPR2025](https://openreview.net/group?id=thecvf.com/CVPR/2025) | 人工智能 | A | 2024-11-15 06:59:59 (56 days) | 
+| [PLDI2025](https://pldi25.sigplan.org/) | 软件工程/系统软件/程序设计语言 | A | 2024-11-14 23:59:59 (56 days) | 
+| [ISCA2025](https://iscaconf.org/isca2025/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2024-11-15 23:59:59 (57 days) | 
+| [ICDE2025](https://ieee-icde.org/2025/) | 数据库/数据挖掘/内容检索 | A | 2024-11-25 23:59:59 (67 days) | 
+| [DSN2025](https://dsn2025.github.io/) | **网络与信息安全** | B | 2024-12-04 23:59:59 (76 days) | 
+| [OSDI2025](https://www.usenix.org/conference/osdi25) | 软件工程/系统软件/程序设计语言 | A | 2024-12-10 22:59:59 (81 days) | 
 | [USENIX ATC2025](https://www.usenix.org/conference/atc25) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-01-14 23:59:59 (03 months) | 
 | [USENIX Security2025](https://www.usenix.org/conference/usenixsecurity25) | **网络与信息安全** | A | 2025-01-22 23:59:59 (04 months) | 
 | [SIGKDD2025](https://kdd2025.kdd.org/) | 数据库/数据挖掘/内容检索 | A | 2025-02-08 23:59:59 (04 months) | 
