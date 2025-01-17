@@ -1,7 +1,7 @@
 
 ## CCF Conference DDL
 
-> Update: 2025-01-16 09:25:02
+> Update: 2025-01-17 09:24:42
 >
 > From: https://ccf.tjunsl.com/
 
@@ -29,29 +29,30 @@ function share() {
 
 | 会议 | 类型 | CCF | 截止时间 |
 | :--: | :--: | :--: | :--: |
-| [CHES2025](https://ches.iacr.org/2025/) | **网络与信息安全** | B | 2025-01-15 23:59:59 (10:34:56) | 
-| [SIGMOD2026](https://2026.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2025-01-17 23:59:00 (02 days) | 
-| [USENIX Security2025](https://www.usenix.org/conference/usenixsecurity25) | **网络与信息安全** | A | 2025-01-22 23:59:59 (06 days) | 
-| [ACM SIGGRAPH2025](https://s2025.siggraph.org/) | 计算机图形学与多媒体 | A | 2025-01-23 22:00:00 (07 days) | 
-| [IJCAI2025](https://2025.ijcai.org/) | 人工智能 | A | 2025-01-23 23:59:59 (07 days) | 
-| [SIGIR2025](https://sigir2025.dei.unipd.it/) | 数据库/数据挖掘/内容检索 | A | 2025-01-23 23:59:59 (08 days) | 
-| [ICML2025](https://icml.cc/Conferences/2025) | 人工智能 | A | 2025-01-30 23:59:59 (14 days) | 
-| [SIGCOMM2025](https://conferences.sigcomm.org/sigcomm/2025/) | 计算机网络 | A | 2025-01-31 23:59:59 (15 days) | 
-| [CAV2025](https://conferences.i-cav.org/2025/) | 计算机科学理论 | A | 2025-01-31 23:59:59 (16 days) | 
-| [VLDB2025](http://www.vldb.org/2025/) | 数据库/数据挖掘/内容检索 | A | 2025-02-01 17:00:00 (16 days) | 
-| [UbiComp/ISWC2025](https://www.ubicomp.org/ubicomp-iswc-2025) | 人机交互与普适计算 | A | 2025-02-01 23:59:59 (17 days) | 
-| [OOPSLA2025](https://2025.splashcon.org/track/OOPSLA) | 软件工程/系统软件/程序设计语言 | A | 2025-02-04 07:59:59 (19 days) | 
-| [CSFW2025](https://csf2025.ieee-security.org/) | **网络与信息安全** | B | 2025-02-04 23:59:59 (19 days) | 
-| [SIGKDD2025](https://kdd2025.kdd.org/) | 数据库/数据挖掘/内容检索 | A | 2025-02-10 23:59:59 (26 days) | 
-| [CRYPTO2025](https://crypto.iacr.org/2025/) | **网络与信息安全** | A | 2025-02-13 23:59:59 (28 days) | 
-| [ACL2025](https://2025.aclweb.org/) | 人工智能 | A | 2025-02-15 23:59:59 (30 days) | 
-| [ICCV2025](https://iccv2025.thecvf.com/) | 人工智能 | A | 2025-03-07 07:59:59 (50 days) | 
-| [ICSE2026](https://conf.researchr.org/home/icse-2026) | 软件工程/系统软件/程序设计语言 | A | 2025-03-14 23:59:59 (58 days) | 
-| [MobiCom2025](https://sigmobile.org/mobicom/2025/) | 计算机网络 | A | 2025-03-18 23:59:59 (61 days) | 
-| [UIST2025](https://uist.acm.org/2025/) | 人机交互与普适计算 | A | 2025-04-02 17:00:00 (76 days) | 
-| [ACM MM2025](https://2025.acmmm.org/) | 计算机图形学与多媒体 | A | 2025-04-11 23:59:59 (85 days) | 
-| [CCS2025](https://www.sigsac.org/ccs/CCS2025/) | **网络与信息安全** | A | 2025-04-14 23:59:59 (88 days) | 
-| [SC2025](https://sc25.supercomputing.org/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-04-14 23:59:00 (89 days) | 
+| [SIGMOD2026](https://2026.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2025-01-17 23:59:00 (01 day ) | 
+| [USENIX Security2025](https://www.usenix.org/conference/usenixsecurity25) | **网络与信息安全** | A | 2025-01-22 23:59:59 (05 days) | 
+| [ACM SIGGRAPH2025](https://s2025.siggraph.org/) | 计算机图形学与多媒体 | A | 2025-01-23 22:00:00 (06 days) | 
+| [IJCAI2025](https://2025.ijcai.org/) | 人工智能 | A | 2025-01-23 23:59:59 (06 days) | 
+| [SIGIR2025](https://sigir2025.dei.unipd.it/) | 数据库/数据挖掘/内容检索 | A | 2025-01-23 23:59:59 (07 days) | 
+| [ICML2025](https://icml.cc/Conferences/2025) | 人工智能 | A | 2025-01-30 23:59:59 (13 days) | 
+| [SIGCOMM2025](https://conferences.sigcomm.org/sigcomm/2025/) | 计算机网络 | A | 2025-01-31 23:59:59 (14 days) | 
+| [CAV2025](https://conferences.i-cav.org/2025/) | 计算机科学理论 | A | 2025-01-31 23:59:59 (15 days) | 
+| [VLDB2025](http://www.vldb.org/2025/) | 数据库/数据挖掘/内容检索 | A | 2025-02-01 17:00:00 (15 days) | 
+| [UbiComp/ISWC2025](https://www.ubicomp.org/ubicomp-iswc-2025) | 人机交互与普适计算 | A | 2025-02-01 23:59:59 (16 days) | 
+| [OOPSLA2025](https://2025.splashcon.org/track/OOPSLA) | 软件工程/系统软件/程序设计语言 | A | 2025-02-04 07:59:59 (18 days) | 
+| [CSFW2025](https://csf2025.ieee-security.org/) | **网络与信息安全** | B | 2025-02-04 23:59:59 (18 days) | 
+| [SIGKDD2025](https://kdd2025.kdd.org/) | 数据库/数据挖掘/内容检索 | A | 2025-02-10 23:59:59 (25 days) | 
+| [CRYPTO2025](https://crypto.iacr.org/2025/) | **网络与信息安全** | A | 2025-02-13 23:59:59 (27 days) | 
+| [ACL2025](https://2025.aclweb.org/) | 人工智能 | A | 2025-02-15 23:59:59 (29 days) | 
+| [ICCV2025](https://iccv2025.thecvf.com/) | 人工智能 | A | 2025-03-07 07:59:59 (49 days) | 
+| [ICSE2026](https://conf.researchr.org/home/icse-2026) | 软件工程/系统软件/程序设计语言 | A | 2025-03-14 23:59:59 (57 days) | 
+| [MobiCom2025](https://sigmobile.org/mobicom/2025/) | 计算机网络 | A | 2025-03-18 23:59:59 (60 days) | 
+| [UIST2025](https://uist.acm.org/2025/) | 人机交互与普适计算 | A | 2025-04-02 17:00:00 (75 days) | 
+| [ACM MM2025](https://2025.acmmm.org/) | 计算机图形学与多媒体 | A | 2025-04-11 23:59:59 (84 days) | 
+| [CCS2025](https://www.sigsac.org/ccs/CCS2025/) | **网络与信息安全** | A | 2025-04-14 23:59:59 (87 days) | 
+| [SC2025](https://sc25.supercomputing.org/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-04-14 23:59:00 (88 days) | 
+| [CHES2025](https://ches.iacr.org/2025/) | **网络与信息安全** | B | 2025-04-15 23:59:59 (89 days) | 
+| [SOSP2025](https://sigops.org/s/conferences/sosp/2025/index.html) | 软件工程/系统软件/程序设计语言 | A | 2025-04-17 23:59:59 (90 days) | 
 | [ASE2025](https://conf.researchr.org/home/ase-2025) | 软件工程/系统软件/程序设计语言 | A | 2025-05-30 23:59:59 (04 months) | 
 
 Generated by [ccf4sc](https://github.com/WWILLV/ccf4sc/) © More Conferences at [ccfddl](https://ccfddl.top/)
