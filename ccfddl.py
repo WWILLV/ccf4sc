@@ -8,8 +8,8 @@ import re
 import os
 from copy import deepcopy
 from datetime import datetime, timezone, timedelta
-from tabulate import tabulate
 import json
+from dateutil.relativedelta import relativedelta
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
 conf_file = os.path.join(dir_path, "conf.json")
@@ -20,22 +20,21 @@ def parse_tz(tz):
     if tz == "AoE":
         return "-1200"
     elif tz.startswith("UTC-"):
-        return "-{:04d}".format(int(tz[4:]))
+        return "-{:02d}00".format(int(tz[4:]))
     elif tz.startswith("UTC+"):
-        return "+{:04d}".format(int(tz[4:]))
+        return "+{:02d}00".format(int(tz[4:]))
     else:
         return "+0000"
 
 
 def format_duraton(ddl_time: datetime, now: datetime) -> str:
-    duration = ddl_time - now
-    months, days = duration.days // 30, duration.days
-    hours, remainder = divmod(duration.seconds, 3600)
-    minutes, seconds = divmod(remainder, 60)
+    duration = relativedelta(ddl_time, now)
+    months, days = duration.months, duration.days
+    hours, minutes, seconds = duration.hours, duration.minutes, duration.seconds
 
     day_word_str = "days" if days > 1 else "day "
     # for alignment
-    months_str, days_str, = str(months).zfill(2), str(days).zfill(2)
+    months_str, days_str = str(months).zfill(2), str(days).zfill(2)
     hours_str, minutes_str = str(hours).zfill(2), str(minutes).zfill(2)
 
     if days < 1:
@@ -51,7 +50,7 @@ def markdown_gen(table):
     md = f"""
 ## CCF Conference DDL
 
-> Update: {datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")}
+> Update: {datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")} (UTC+8)
 >
 > From: https://ccf.tjunsl.com/"""+"""
 
@@ -77,7 +76,7 @@ function share() {
 </script>
 
 
-| 会议 | 类型 | CCF | 截止时间 |
+| 会议 | 类型 | CCF | 截止时间 (UTC+8) |
 | :--: | :--: | :--: | :--: |
 """
     for i in range(1, len(table)):
@@ -88,8 +87,7 @@ function share() {
     with open(md_file, "w", encoding="utf-8") as f:
         f.write(md)
 
-
-def main():
+def get_conf_data():
     yml_str = requests.get(
         "https://ccfddl.github.io/conference/allconf.yml").content.decode("utf-8")
     all_conf = yaml.safe_load(yml_str)
@@ -114,16 +112,21 @@ def main():
                 except Exception as e:
                     pass
             if time_obj is not None:
+                print(time_obj)
+                time_obj = time_obj.astimezone(timezone(timedelta(hours=8)))
                 cur_conf["time_obj"] = time_obj
-                cur_conf["ddl"] = format_duraton(time_obj, now)
+                cur_conf["ddl"] = format_duraton(time_obj, now)                
+                if "CRYPTO" in cur_conf["title"]:
+                    print(time_obj, now)
+                    print(cur_conf["ddl"])
                 if time_obj > now:
                     all_conf_ext.append(cur_conf)
 
     all_conf_ext = sorted(all_conf_ext, key=lambda x: x['time_obj'])
+    return all_conf_ext
 
-    # This is not an elegant solution.
-    # The purpose is to keep the above logic untouched,
-    # return alpha id(conf name) without digits(year)
+
+def main():
     def alpha_id(with_digits: string) -> string:
         return ''.join(char for char in with_digits.lower() if char.isalpha())
 
@@ -155,7 +158,7 @@ def main():
                 x["time_obj"],
                 ]
 
-    for x in all_conf_ext:
+    for x in get_conf_data():
         confs = [conf.lower() for conf in conf_data["conf"]]
         x.update({"rank": x["rank"].get("ccf")})
         if alpha_id(x["id"]) in confs:
@@ -176,7 +179,6 @@ def main():
                 if table[i][2] == conf_data.get("remove")[r]:
                     table.pop(i)
     markdown_gen(table)
-    print(tabulate(table, headers='firstrow', tablefmt='fancy_grid'))
 
 
 if __name__ == "__main__":
