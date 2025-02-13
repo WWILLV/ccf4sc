@@ -31,6 +31,8 @@ def format_duraton(ddl_time: datetime, now: datetime) -> str:
     months, days = duration.days // 30, duration.days
     hours, remainder = divmod(duration.seconds, 3600)
     minutes, seconds = divmod(remainder, 60)
+    if seconds < 10:
+        seconds = f"0{seconds}"
 
     day_word_str = "days" if days > 1 else "day "
     # for alignment
