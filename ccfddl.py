@@ -9,7 +9,6 @@ import os
 from copy import deepcopy
 from datetime import datetime, timezone, timedelta
 import json
-from dateutil.relativedelta import relativedelta
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
 conf_file = os.path.join(dir_path, "conf.json")
@@ -28,9 +27,10 @@ def parse_tz(tz):
 
 
 def format_duraton(ddl_time: datetime, now: datetime) -> str:
-    duration = relativedelta(ddl_time, now)
-    months, days = duration.months, duration.days
-    hours, minutes, seconds = duration.hours, duration.minutes, duration.seconds
+    duration = ddl_time - now
+    months, days = duration.days // 30, duration.days
+    hours, remainder = divmod(duration.seconds, 3600)
+    minutes, seconds = divmod(remainder, 60)
 
     day_word_str = "days" if days > 1 else "day "
     # for alignment
