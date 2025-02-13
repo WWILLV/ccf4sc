@@ -112,13 +112,9 @@ def get_conf_data():
                 except Exception as e:
                     pass
             if time_obj is not None:
-                print(time_obj)
                 time_obj = time_obj.astimezone(timezone(timedelta(hours=8)))
                 cur_conf["time_obj"] = time_obj
-                cur_conf["ddl"] = format_duraton(time_obj, now)                
-                if "CRYPTO" in cur_conf["title"]:
-                    print(time_obj, now)
-                    print(cur_conf["ddl"])
+                cur_conf["ddl"] = format_duraton(time_obj, now)
                 if time_obj > now:
                     all_conf_ext.append(cur_conf)
 
