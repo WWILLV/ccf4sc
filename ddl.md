@@ -1,7 +1,7 @@
 
 ## CCF Conference DDL
 
-> Update: 2025-02-14 01:52:52 (UTC+8)
+> Update: 2025-02-14 02:05:45 (UTC+8)
 >
 > From: https://ccf.tjunsl.com/
 
@@ -29,7 +29,7 @@ function share() {
 
 | 会议 | 类型 | CCF | 截止时间 (UTC+8) |
 | :--: | :--: | :--: | :--: |
-| [CRYPTO2025](https://crypto.iacr.org/2025/) | **网络与信息安全** | A | 2025-02-14 19:59:59 (18:07:6) | 
+| [CRYPTO2025](https://crypto.iacr.org/2025/) | **网络与信息安全** | A | 2025-02-14 19:59:59 (17:54:13) | 
 | [ACL2025](https://2025.aclweb.org/) | 人工智能 | A | 2025-02-16 19:59:59 (02 days) | 
 | [VLDB2025](http://www.vldb.org/2025/) | 数据库/数据挖掘/内容检索 | A | 2025-03-02 08:00:00 (16 days) | 
 | [ICCV2025](https://iccv.thecvf.com/Conferences/2025) | 人工智能 | A | 2025-03-07 15:59:59 (21 days) | 
