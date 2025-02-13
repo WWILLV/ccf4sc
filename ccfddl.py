@@ -31,16 +31,15 @@ def format_duraton(ddl_time: datetime, now: datetime) -> str:
     months, days = duration.days // 30, duration.days
     hours, remainder = divmod(duration.seconds, 3600)
     minutes, seconds = divmod(remainder, 60)
-    if seconds < 10:
-        seconds = f"0{seconds}"
 
     day_word_str = "days" if days > 1 else "day "
     # for alignment
     months_str, days_str = str(months).zfill(2), str(days).zfill(2)
     hours_str, minutes_str = str(hours).zfill(2), str(minutes).zfill(2)
+    seconds_str = str(seconds).zfill(2)
 
     if days < 1:
-        return f'{hours_str}:{minutes_str}:{seconds}'
+        return f'{hours_str}:{minutes_str}:{seconds_str}'
     if days < 30:
         return f'{days_str} {day_word_str}, {hours_str}:{minutes_str}'
     if days < 100:
