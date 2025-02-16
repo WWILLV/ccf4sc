@@ -1,7 +1,7 @@
 
 ## CCF Conference DDL
 
-> Update: 2025-02-15 09:26:07 (UTC+8)
+> Update: 2025-02-16 09:40:49 (UTC+8)
 >
 > From: https://ccf.tjunsl.com/
 
@@ -29,24 +29,24 @@ function share() {
 
 | 会议 | 类型 | CCF | 截止时间 (UTC+8) |
 | :--: | :--: | :--: | :--: |
-| [ACL2025](https://2025.aclweb.org/) | 人工智能 | A | 2025-02-16 19:59:59 (01 day ) | 
-| [VLDB2025](http://www.vldb.org/2025/) | 数据库/数据挖掘/内容检索 | A | 2025-03-02 08:00:00 (14 days) | 
-| [ICCV2025](https://iccv.thecvf.com/Conferences/2025) | 人工智能 | A | 2025-03-08 17:59:59 (21 days) | 
-| [ICSE2026](https://conf.researchr.org/home/icse-2026) | 软件工程/系统软件/程序设计语言 | A | 2025-03-15 19:59:59 (28 days) | 
-| [FAST2026](https://www.usenix.net/conference/fast26) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-03-19 19:59:00 (32 days) | 
-| [MobiCom2025](https://sigmobile.org/mobicom/2025/) | 计算机网络 | A | 2025-03-19 19:59:59 (32 days) | 
-| [OOPSLA2025](https://2025.splashcon.org/track/OOPSLA) | 软件工程/系统软件/程序设计语言 | A | 2025-03-25 19:59:59 (38 days) | 
-| [IEEE VIS2025](https://ieeevis.org/year/2025/welcome) | 计算机图形学与多媒体 | A | 2025-04-01 19:59:59 (45 days) | 
-| [UIST2025](https://uist.acm.org/2025/) | 人机交互与普适计算 | A | 2025-04-03 09:00:00 (46 days) | 
-| [ACM MM2025](https://2025.acmmm.org/) | 计算机图形学与多媒体 | A | 2025-04-12 19:59:59 (56 days) | 
-| [SC2025](https://sc25.supercomputing.org/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-04-15 19:59:00 (59 days) | 
-| [CCS2025](https://www.sigsac.org/ccs/CCS2025/) | **网络与信息安全** | A | 2025-04-15 19:59:59 (59 days) | 
-| [CHES2025](https://ches.iacr.org/2025/) | **网络与信息安全** | B | 2025-04-16 19:59:59 (60 days) | 
-| [SOSP2025](https://sigops.org/s/conferences/sosp/2025/index.html) | 软件工程/系统软件/程序设计语言 | A | 2025-04-18 15:59:59 (62 days) | 
-| [SIGMOD2026](https://2026.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2025-04-18 19:59:00 (62 days) | 
-| [ESORICS2025](https://esorics2025.sciencesconf.org/) | **网络与信息安全** | B | 2025-04-23 19:59:59 (67 days) | 
-| [UbiComp/ISWC2025](https://www.ubicomp.org/ubicomp-iswc-2025) | 人机交互与普适计算 | A | 2025-05-02 19:59:59 (76 days) | 
-| [EuroSys2026](https://2026.eurosys.org/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-05-16 19:59:59 (90 days) | 
+| [ACL2025](https://2025.aclweb.org/) | 人工智能 | A | 2025-02-16 19:59:59 (10:19:09) | 
+| [VLDB2025](http://www.vldb.org/2025/) | 数据库/数据挖掘/内容检索 | A | 2025-03-02 08:00:00 (13 days) | 
+| [ICCV2025](https://iccv.thecvf.com/Conferences/2025) | 人工智能 | A | 2025-03-08 17:59:59 (20 days) | 
+| [ICSE2026](https://conf.researchr.org/home/icse-2026) | 软件工程/系统软件/程序设计语言 | A | 2025-03-15 19:59:59 (27 days) | 
+| [FAST2026](https://www.usenix.net/conference/fast26) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-03-19 19:59:00 (31 days) | 
+| [MobiCom2025](https://sigmobile.org/mobicom/2025/) | 计算机网络 | A | 2025-03-19 19:59:59 (31 days) | 
+| [OOPSLA2025](https://2025.splashcon.org/track/OOPSLA) | 软件工程/系统软件/程序设计语言 | A | 2025-03-25 19:59:59 (37 days) | 
+| [IEEE VIS2025](https://ieeevis.org/year/2025/welcome) | 计算机图形学与多媒体 | A | 2025-04-01 19:59:59 (44 days) | 
+| [UIST2025](https://uist.acm.org/2025/) | 人机交互与普适计算 | A | 2025-04-03 09:00:00 (45 days) | 
+| [ACM MM2025](https://2025.acmmm.org/) | 计算机图形学与多媒体 | A | 2025-04-12 19:59:59 (55 days) | 
+| [SC2025](https://sc25.supercomputing.org/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-04-15 19:59:00 (58 days) | 
+| [CCS2025](https://www.sigsac.org/ccs/CCS2025/) | **网络与信息安全** | A | 2025-04-15 19:59:59 (58 days) | 
+| [CHES2025](https://ches.iacr.org/2025/) | **网络与信息安全** | B | 2025-04-16 19:59:59 (59 days) | 
+| [SOSP2025](https://sigops.org/s/conferences/sosp/2025/index.html) | 软件工程/系统软件/程序设计语言 | A | 2025-04-18 15:59:59 (61 days) | 
+| [SIGMOD2026](https://2026.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2025-04-18 19:59:00 (61 days) | 
+| [ESORICS2025](https://esorics2025.sciencesconf.org/) | **网络与信息安全** | B | 2025-04-23 19:59:59 (66 days) | 
+| [UbiComp/ISWC2025](https://www.ubicomp.org/ubicomp-iswc-2025) | 人机交互与普适计算 | A | 2025-05-02 19:59:59 (75 days) | 
+| [EuroSys2026](https://2026.eurosys.org/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-05-16 19:59:59 (89 days) | 
 | [ASE2025](https://conf.researchr.org/home/ase-2025) | 软件工程/系统软件/程序设计语言 | A | 2025-05-31 19:59:59 (03 months) | 
 | [S&P2026](https://www.ieee-security.org/TC/SP2026/) | **网络与信息安全** | A | 2025-06-06 19:59:59 (03 months) | 
 
