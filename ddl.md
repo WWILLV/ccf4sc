@@ -1,7 +1,7 @@
 
 ## CCF Conference DDL
 
-> Update: 2025-03-04 09:39:06 (UTC+8)
+> Update: 2025-03-04 17:49:58 (UTC+8)
 >
 > From: https://ccf.tjunsl.com/
 
@@ -36,12 +36,12 @@ function share() {
 | [OOPSLA2025](https://2025.splashcon.org/track/OOPSLA) | 软件工程/系统软件/程序设计语言 | A | 2025-03-25 19:59:59 (21 days) | 
 | [IEEE VIS2025](https://ieeevis.org/year/2025/welcome) | 计算机图形学与多媒体 | A | 2025-04-01 19:59:59 (28 days) | 
 | [UIST2025](https://uist.acm.org/2025/) | 人机交互与普适计算 | A | 2025-04-03 09:00:00 (29 days) | 
-| [MICRO2025](https://microarch.org/micro58/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-04-12 11:59:59 (39 days) | 
+| [MICRO2025](https://microarch.org/micro58/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-04-12 11:59:59 (38 days) | 
 | [ACM MM2025](https://2025.acmmm.org/) | 计算机图形学与多媒体 | A | 2025-04-12 19:59:59 (39 days) | 
 | [SC2025](https://sc25.supercomputing.org/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-04-15 19:59:00 (42 days) | 
 | [CCS2025](https://www.sigsac.org/ccs/CCS2025/) | **网络与信息安全** | A | 2025-04-15 19:59:59 (42 days) | 
 | [CHES2025](https://ches.iacr.org/2025/) | **网络与信息安全** | B | 2025-04-16 19:59:59 (43 days) | 
-| [SOSP2025](https://sigops.org/s/conferences/sosp/2025/index.html) | 软件工程/系统软件/程序设计语言 | A | 2025-04-18 15:59:59 (45 days) | 
+| [SOSP2025](https://sigops.org/s/conferences/sosp/2025/index.html) | 软件工程/系统软件/程序设计语言 | A | 2025-04-18 15:59:59 (44 days) | 
 | [SIGMOD2026](https://2026.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2025-04-18 19:59:00 (45 days) | 
 | [RAID2025](https://raid2025.github.io/) | **网络与信息安全** | B | 2025-04-18 19:59:59 (45 days) | 
 | [ESORICS2025](https://esorics2025.sciencesconf.org/) | **网络与信息安全** | B | 2025-04-23 19:59:59 (50 days) | 
