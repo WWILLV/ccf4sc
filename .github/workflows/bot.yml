@@ -27,6 +27,9 @@ jobs:
       - name: Run ccfddl.py
         run: python ccfddl.py
 
+      - name: Run ics.py
+        run: python ics.py
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
