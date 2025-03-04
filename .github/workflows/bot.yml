@@ -36,7 +36,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git add ddl.md
           git add ccf.ics
-          git add ccs_filter.ics
+          git add ccf_filter.ics
           git commit -m "Update ddl and ics"
           
       - name: Push changes
