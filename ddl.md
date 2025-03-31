@@ -1,7 +1,7 @@
 
 ## CCF Conference DDL
 
-> Update: 2025-03-30 09:48:34 (UTC+8)
+> Update: 2025-03-31 09:47:10 (UTC+8)
 >
 > From: https://ccf.tjunsl.com/
 
@@ -29,28 +29,29 @@ function share() {
 
 | 会议 | 类型 | CCF | 截止时间 (UTC+8) |
 | :--: | :--: | :--: | :--: |
-| [IEEE VIS2025](https://ieeevis.org/year/2025/welcome) | 计算机图形学与多媒体 | A | 2025-04-01 19:59:59 (02 days) | 
-| [VLDB2026](https://www.vldb.org/2026/) | 数据库/数据挖掘/内容检索 | A | 2025-04-02 08:00:00 (02 days) | 
-| [UIST2025](https://uist.acm.org/2025/) | 人机交互与普适计算 | A | 2025-04-03 09:00:00 (03 days) | 
-| [FOCS2025](https://focs.computer.org/2025/) | 计算机科学理论 | A | 2025-04-04 09:00:00 (04 days) | 
-| [MICRO2025](https://microarch.org/micro58/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-04-12 11:59:59 (13 days) | 
-| [ACM MM2025](https://2025.acmmm.org/) | 计算机图形学与多媒体 | A | 2025-04-12 19:59:59 (13 days) | 
-| [SC2025](https://sc25.supercomputing.org/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-04-15 19:59:00 (16 days) | 
-| [CCS2025](https://www.sigsac.org/ccs/CCS2025/) | **网络与信息安全** | A | 2025-04-15 19:59:59 (16 days) | 
-| [CHES2025](https://ches.iacr.org/2025/) | **网络与信息安全** | B | 2025-04-16 19:59:59 (17 days) | 
-| [SOSP2025](https://sigops.org/s/conferences/sosp/2025/index.html) | 软件工程/系统软件/程序设计语言 | A | 2025-04-18 15:59:59 (19 days) | 
-| [SIGMOD2026](https://2026.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2025-04-18 19:59:00 (19 days) | 
-| [RAID2025](https://raid2025.github.io/) | **网络与信息安全** | B | 2025-04-18 19:59:59 (19 days) | 
-| [ESORICS2025](https://esorics2025.sciencesconf.org/) | **网络与信息安全** | B | 2025-04-23 19:59:59 (24 days) | 
-| [NSDI2026](https://www.usenix.org/conference/nsdi26) | 计算机网络 | A | 2025-04-26 11:59:59 (27 days) | 
-| [SRDS2025](https://srds-conference.org/) | **网络与信息安全** | B | 2025-04-26 19:59:59 (27 days) | 
-| [UbiComp/ISWC2025](https://www.ubicomp.org/ubicomp-iswc-2025) | 人机交互与普适计算 | A | 2025-05-02 19:59:59 (33 days) | 
-| [ASIACRYPT2025](https://asiacrypt.iacr.org/2025/) | **网络与信息安全** | B | 2025-05-16 19:59:59 (47 days) | 
-| [NeurIPS2025](https://neurips.cc/Conferences/2025) | 人工智能 | A | 2025-05-16 19:59:59 (47 days) | 
-| [EuroSys2026](https://2026.eurosys.org/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-05-16 19:59:59 (47 days) | 
-| [ACM SIGGRAPH ASIA2025](https://asia.siggraph.org/2025/) | 计算机图形学与多媒体 | A | 2025-05-24 19:59:00 (55 days) | 
-| [ASE2025](https://conf.researchr.org/home/ase-2025) | 软件工程/系统软件/程序设计语言 | A | 2025-05-31 19:59:59 (62 days) | 
-| [S&P2026](https://www.ieee-security.org/TC/SP2026/) | **网络与信息安全** | A | 2025-06-06 19:59:59 (68 days) | 
+| [IEEE VIS2025](https://ieeevis.org/year/2025/welcome) | 计算机图形学与多媒体 | A | 2025-04-01 19:59:59 (01 day ) | 
+| [VLDB2026](https://www.vldb.org/2026/) | 数据库/数据挖掘/内容检索 | A | 2025-04-02 08:00:00 (01 day ) | 
+| [UIST2025](https://uist.acm.org/2025/) | 人机交互与普适计算 | A | 2025-04-03 09:00:00 (02 days) | 
+| [FOCS2025](https://focs.computer.org/2025/) | 计算机科学理论 | A | 2025-04-04 09:00:00 (03 days) | 
+| [MICRO2025](https://microarch.org/micro58/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-04-12 11:59:59 (12 days) | 
+| [ACM MM2025](https://2025.acmmm.org/) | 计算机图形学与多媒体 | A | 2025-04-12 19:59:59 (12 days) | 
+| [SC2025](https://sc25.supercomputing.org/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-04-15 19:59:00 (15 days) | 
+| [CCS2025](https://www.sigsac.org/ccs/CCS2025/) | **网络与信息安全** | A | 2025-04-15 19:59:59 (15 days) | 
+| [CHES2025](https://ches.iacr.org/2025/) | **网络与信息安全** | B | 2025-04-16 19:59:59 (16 days) | 
+| [SOSP2025](https://sigops.org/s/conferences/sosp/2025/index.html) | 软件工程/系统软件/程序设计语言 | A | 2025-04-18 15:59:59 (18 days) | 
+| [SIGMOD2026](https://2026.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2025-04-18 19:59:00 (18 days) | 
+| [RAID2025](https://raid2025.github.io/) | **网络与信息安全** | B | 2025-04-18 19:59:59 (18 days) | 
+| [ESORICS2025](https://esorics2025.sciencesconf.org/) | **网络与信息安全** | B | 2025-04-23 19:59:59 (23 days) | 
+| [NDSS2026](https://www.ndss-symposium.org/ndss2026/) | **网络与信息安全** | A | 2025-04-24 19:59:59 (24 days) | 
+| [NSDI2026](https://www.usenix.org/conference/nsdi26) | 计算机网络 | A | 2025-04-26 14:59:59 (26 days) | 
+| [SRDS2025](https://srds-conference.org/) | **网络与信息安全** | B | 2025-04-26 19:59:59 (26 days) | 
+| [UbiComp/ISWC2025](https://www.ubicomp.org/ubicomp-iswc-2025) | 人机交互与普适计算 | A | 2025-05-02 19:59:59 (32 days) | 
+| [ASIACRYPT2025](https://asiacrypt.iacr.org/2025/) | **网络与信息安全** | B | 2025-05-16 19:59:59 (46 days) | 
+| [NeurIPS2025](https://neurips.cc/Conferences/2025) | 人工智能 | A | 2025-05-16 19:59:59 (46 days) | 
+| [EuroSys2026](https://2026.eurosys.org/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-05-16 19:59:59 (46 days) | 
+| [ACM SIGGRAPH ASIA2025](https://asia.siggraph.org/2025/) | 计算机图形学与多媒体 | A | 2025-05-24 19:59:00 (54 days) | 
+| [ASE2025](https://conf.researchr.org/home/ase-2025) | 软件工程/系统软件/程序设计语言 | A | 2025-05-31 19:59:59 (61 days) | 
+| [S&P2026](https://www.ieee-security.org/TC/SP2026/) | **网络与信息安全** | A | 2025-06-06 19:59:59 (67 days) | 
 | [ICSE2026](https://conf.researchr.org/home/icse-2026) | 软件工程/系统软件/程序设计语言 | A | 2025-07-19 19:59:59 (03 months) | 
 | [FAST2026](https://www.usenix.net/conference/fast26) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-09-17 19:59:00 (05 months) | 
 
