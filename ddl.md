@@ -1,7 +1,7 @@
 
 ## CCF Conference DDL
 
-> Update: 2025-05-22 09:49:20 (UTC+8)
+> Update: 2025-05-23 09:49:16 (UTC+8)
 >
 > From: https://ccf.tjunsl.com/
 
@@ -29,27 +29,27 @@ function share() {
 
 | 会议 | 类型 | CCF | 截止时间 (UTC+8) |
 | :--: | :--: | :--: | :--: |
-| [RTSS2025](http://2025.rtss.org/) | 交叉/综合/新兴 | A | 2025-05-23 19:59:59 (01 day ) | 
-| [ACM SIGGRAPH ASIA2025](https://asia.siggraph.org/2025/) | 计算机图形学与多媒体 | A | 2025-05-24 19:59:00 (02 days) | 
-| [TCC2025](https://tcc.iacr.org/2025/) | **网络与信息安全** | B | 2025-05-28 19:59:59 (06 days) | 
-| [ACSAC2025](https://www.acsac.org/) | **网络与信息安全** | B | 2025-05-31 19:59:59 (09 days) | 
-| [ASE2025](https://conf.researchr.org/home/ase-2025) | 软件工程/系统软件/程序设计语言 | A | 2025-05-31 19:59:59 (09 days) | 
-| [VLDB2026](https://www.vldb.org/2026/) | 数据库/数据挖掘/内容检索 | A | 2025-06-02 08:00:00 (10 days) | 
-| [S&P2026](https://www.ieee-security.org/TC/SP2026/) | **网络与信息安全** | A | 2025-06-06 19:59:59 (15 days) | 
-| [ICDE2026](https://icde2026.github.io/) | 数据库/数据挖掘/内容检索 | A | 2025-06-19 19:59:59 (28 days) | 
-| [POPL2026](https://popl26.sigplan.org/) | 软件工程/系统软件/程序设计语言 | A | 2025-07-11 19:59:59 (50 days) | 
-| [SODA2026](https://www.siam.org/conferences-events/siam-conferences/soda26/) | 计算机科学理论 | A | 2025-07-15 19:59:59 (54 days) | 
-| [SIGMOD2026](https://2026.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2025-07-18 19:59:00 (57 days) | 
-| [ICSE2026](https://conf.researchr.org/home/icse-2026) | 软件工程/系统软件/程序设计语言 | A | 2025-07-19 19:59:59 (58 days) | 
-| [UbiComp/ISWC2025](https://www.ubicomp.org/ubicomp-iswc-2025) | 人机交互与普适计算 | A | 2025-08-02 19:59:59 (72 days) | 
-| [AAAI2026](https://aaai.org/conference/aaai/aaai-26/) | 人工智能 | A | 2025-08-02 19:59:59 (72 days) | 
-| [NDSS2026](https://www.ndss-symposium.org/ndss2026/) | **网络与信息安全** | A | 2025-08-07 19:59:59 (77 days) | 
-| [ASPLOS2026](https://www.asplos-conference.org/asplos2026/cfp/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-08-21 11:59:59 (91 days) | 
-| [USENIX Security2026](https://www.usenix.org/conference/usenixsecurity26) | **网络与信息安全** | A | 2025-08-27 19:59:59 (97 days) | 
+| [RTSS2025](http://2025.rtss.org/) | 交叉/综合/新兴 | A | 2025-05-23 19:59:59 (10:10:42) | 
+| [ACM SIGGRAPH ASIA2025](https://asia.siggraph.org/2025/) | 计算机图形学与多媒体 | A | 2025-05-24 19:59:00 (01 day ) | 
+| [TCC2025](https://tcc.iacr.org/2025/) | **网络与信息安全** | B | 2025-05-28 19:59:59 (05 days) | 
+| [ACSAC2025](https://www.acsac.org/) | **网络与信息安全** | B | 2025-05-31 19:59:59 (08 days) | 
+| [ASE2025](https://conf.researchr.org/home/ase-2025) | 软件工程/系统软件/程序设计语言 | A | 2025-05-31 19:59:59 (08 days) | 
+| [VLDB2026](https://www.vldb.org/2026/) | 数据库/数据挖掘/内容检索 | A | 2025-06-02 08:00:00 (09 days) | 
+| [S&P2026](https://www.ieee-security.org/TC/SP2026/) | **网络与信息安全** | A | 2025-06-06 19:59:59 (14 days) | 
+| [ICDE2026](https://icde2026.github.io/) | 数据库/数据挖掘/内容检索 | A | 2025-06-19 19:59:59 (27 days) | 
+| [POPL2026](https://popl26.sigplan.org/) | 软件工程/系统软件/程序设计语言 | A | 2025-07-11 19:59:59 (49 days) | 
+| [SODA2026](https://www.siam.org/conferences-events/siam-conferences/soda26/) | 计算机科学理论 | A | 2025-07-15 19:59:59 (53 days) | 
+| [SIGMOD2026](https://2026.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2025-07-18 19:59:00 (56 days) | 
+| [ICSE2026](https://conf.researchr.org/home/icse-2026) | 软件工程/系统软件/程序设计语言 | A | 2025-07-19 19:59:59 (57 days) | 
+| [UbiComp/ISWC2025](https://www.ubicomp.org/ubicomp-iswc-2025) | 人机交互与普适计算 | A | 2025-08-02 19:59:59 (71 days) | 
+| [AAAI2026](https://aaai.org/conference/aaai/aaai-26/) | 人工智能 | A | 2025-08-02 19:59:59 (71 days) | 
+| [NDSS2026](https://www.ndss-symposium.org/ndss2026/) | **网络与信息安全** | A | 2025-08-07 19:59:59 (76 days) | 
+| [ASPLOS2026](https://www.asplos-conference.org/asplos2026/cfp/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-08-21 11:59:59 (90 days) | 
+| [USENIX Security2026](https://www.usenix.org/conference/usenixsecurity26) | **网络与信息安全** | A | 2025-08-27 19:59:59 (96 days) | 
 | [CHI2026](https://chi2026.acm.org/) | 人机交互与普适计算 | A | 2025-09-12 19:59:59 (03 months) | 
 | [FSE2026](https://conf.researchr.org/home/fse-2026) | 软件工程/系统软件/程序设计语言 | A | 2025-09-12 19:59:59 (03 months) | 
 | [FAST2026](https://www.usenix.net/conference/fast26) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-09-17 19:59:00 (03 months) | 
-| [NSDI2026](https://www.usenix.org/conference/nsdi26) | 计算机网络 | A | 2025-09-19 14:59:59 (04 months) | 
+| [NSDI2026](https://www.usenix.org/conference/nsdi26) | 计算机网络 | A | 2025-09-19 14:59:59 (03 months) | 
 | [EuroSys2026](https://2026.eurosys.org/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-09-26 19:59:59 (04 months) | 
 | [FM2026](https://conf.researchr.org/home/fm-2026) | 软件工程/系统软件/程序设计语言 | A | 2025-12-03 19:59:00 (06 months) | 
 
