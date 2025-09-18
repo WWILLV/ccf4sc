@@ -1,7 +1,7 @@
 
 ## CCF Conference DDL
 
-> Update: 2025-09-17 09:39:05 (UTC+8)
+> Update: 2025-09-18 09:39:01 (UTC+8)
 >
 > From: https://ccf.tjunsl.com/
 
@@ -29,26 +29,25 @@ function share() {
 
 | 会议 | 类型 | CCF | 截止时间 (UTC+8) |
 | :--: | :--: | :--: | :--: |
-| [FAST2026](https://www.usenix.net/conference/fast26) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-09-17 19:59:00 (10:19:54) | 
-| [NSDI2026](https://www.usenix.org/conference/nsdi26) | 计算机网络 | A | 2025-09-19 14:59:59 (02 days) | 
-| [SATML2026](https://www.satml.org) | **网络与信息安全** | N | 2025-09-25 19:59:59 (08 days) | 
-| [EuroSys2026](https://2026.eurosys.org/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-09-26 19:59:59 (09 days) | 
-| [VLDB2026](https://www.vldb.org/2026/) | 数据库/数据挖掘/内容检索 | A | 2025-10-02 08:00:00 (14 days) | 
-| [EUROCRYPT2026](https://eurocrypt.iacr.org/2026/) | **网络与信息安全** | A | 2025-10-03 19:59:59 (16 days) | 
-| [WWW2026](https://www2026.thewebconf.org/) | 交叉/综合/新兴 | A | 2025-10-08 19:59:59 (21 days) | 
-| [CSFW2026](https://csf2026.ieee-security.org/) | **网络与信息安全** | B | 2025-10-10 19:59:59 (23 days) | 
-| [OOPSLA2026](https://conf.researchr.org/track/splash-2026/oopsla-2026) | 软件工程/系统软件/程序设计语言 | A | 2025-10-11 19:59:59 (24 days) | 
-| [CHES2026](https://ches.iacr.org/2026/) | **网络与信息安全** | B | 2025-10-16 19:59:59 (29 days) | 
-| [SIGMOD2026](https://2026.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2025-10-18 19:59:00 (31 days) | 
-| [PKC2026](https://pkc.iacr.org/2026/) | **网络与信息安全** | B | 2025-10-25 19:59:59 (38 days) | 
-| [ICDE2026](https://icde2026.github.io/) | 数据库/数据挖掘/内容检索 | A | 2025-10-28 08:00:00 (40 days) | 
-| [UbiComp/ISWC2025](https://www.ubicomp.org/ubicomp-iswc-2025) | 人机交互与普适计算 | A | 2025-11-02 19:59:59 (46 days) | 
-| [S&P2026](https://www.ieee-security.org/TC/SP2026/) | **网络与信息安全** | A | 2025-11-14 19:59:59 (58 days) | 
-| [PLDI2026](https://pldi26.sigplan.org/) | 软件工程/系统软件/程序设计语言 | A | 2025-11-14 19:59:59 (58 days) | 
-| [CVPR2026](https://cvpr.thecvf.com/Conferences/2026) | 人工智能 | A | 2025-11-15 07:59:00 (58 days) | 
-| [FM2026](https://conf.researchr.org/home/fm-2026) | 软件工程/系统软件/程序设计语言 | A | 2025-12-03 19:59:00 (77 days) | 
-| [DSN2026](https://dsn2026.github.io) | **网络与信息安全** | B | 2025-12-05 19:59:59 (79 days) | 
-| [OSDI2026](https://www.usenix.org/conference/osdi26) | 软件工程/系统软件/程序设计语言 | A | 2025-12-12 06:59:59 (85 days) | 
+| [NSDI2026](https://www.usenix.org/conference/nsdi26) | 计算机网络 | A | 2025-09-19 14:59:59 (01 day ) | 
+| [SATML2026](https://www.satml.org) | **网络与信息安全** | N | 2025-09-25 19:59:59 (07 days) | 
+| [EuroSys2026](https://2026.eurosys.org/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-09-26 19:59:59 (08 days) | 
+| [VLDB2026](https://www.vldb.org/2026/) | 数据库/数据挖掘/内容检索 | A | 2025-10-02 08:00:00 (13 days) | 
+| [EUROCRYPT2026](https://eurocrypt.iacr.org/2026/) | **网络与信息安全** | A | 2025-10-03 19:59:59 (15 days) | 
+| [WWW2026](https://www2026.thewebconf.org/) | 交叉/综合/新兴 | A | 2025-10-08 19:59:59 (20 days) | 
+| [CSFW2026](https://csf2026.ieee-security.org/) | **网络与信息安全** | B | 2025-10-10 19:59:59 (22 days) | 
+| [OOPSLA2026](https://conf.researchr.org/track/splash-2026/oopsla-2026) | 软件工程/系统软件/程序设计语言 | A | 2025-10-11 19:59:59 (23 days) | 
+| [CHES2026](https://ches.iacr.org/2026/) | **网络与信息安全** | B | 2025-10-16 19:59:59 (28 days) | 
+| [SIGMOD2026](https://2026.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2025-10-18 19:59:00 (30 days) | 
+| [PKC2026](https://pkc.iacr.org/2026/) | **网络与信息安全** | B | 2025-10-25 19:59:59 (37 days) | 
+| [ICDE2026](https://icde2026.github.io/) | 数据库/数据挖掘/内容检索 | A | 2025-10-28 08:00:00 (39 days) | 
+| [UbiComp/ISWC2025](https://www.ubicomp.org/ubicomp-iswc-2025) | 人机交互与普适计算 | A | 2025-11-02 19:59:59 (45 days) | 
+| [S&P2026](https://www.ieee-security.org/TC/SP2026/) | **网络与信息安全** | A | 2025-11-14 19:59:59 (57 days) | 
+| [PLDI2026](https://pldi26.sigplan.org/) | 软件工程/系统软件/程序设计语言 | A | 2025-11-14 19:59:59 (57 days) | 
+| [CVPR2026](https://cvpr.thecvf.com/Conferences/2026) | 人工智能 | A | 2025-11-15 07:59:00 (57 days) | 
+| [FM2026](https://conf.researchr.org/home/fm-2026) | 软件工程/系统软件/程序设计语言 | A | 2025-12-03 19:59:00 (76 days) | 
+| [DSN2026](https://dsn2026.github.io) | **网络与信息安全** | B | 2025-12-05 19:59:59 (78 days) | 
+| [OSDI2026](https://www.usenix.org/conference/osdi26) | 软件工程/系统软件/程序设计语言 | A | 2025-12-12 06:59:59 (84 days) | 
 | [ISSTA2026](https://conf.researchr.org/home/issta-2026) | 软件工程/系统软件/程序设计语言 | A | 2026-01-30 19:59:59 (04 months) | 
 | [USENIX Security2026](https://www.usenix.org/conference/usenixsecurity26) | **网络与信息安全** | A | 2026-02-06 19:59:59 (04 months) | 
 
