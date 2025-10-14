@@ -1,7 +1,7 @@
 
 ## CCF Conference DDL
 
-> Update: 2025-10-13 09:48:18 (UTC+8)
+> Update: 2025-10-14 09:41:35 (UTC+8)
 >
 > From: https://ccf.tjunsl.com/
 
@@ -29,24 +29,23 @@ function share() {
 
 | 会议 | 类型 | CCF | 截止时间 (UTC+8) |
 | :--: | :--: | :--: | :--: |
-| [NOMS2026](https://noms2026.ieee-noms.org/) | **网络与信息安全** | N | 2025-10-13 17:59:59 (08:11:40) | 
-| [CHES2026](https://ches.iacr.org/2026/) | **网络与信息安全** | B | 2025-10-16 19:59:59 (03 days) | 
-| [SIGMOD2026](https://2026.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2025-10-18 19:59:00 (05 days) | 
-| [PKC2026](https://pkc.iacr.org/2026/) | **网络与信息安全** | B | 2025-10-25 19:59:59 (12 days) | 
-| [ICDE2026](https://icde2026.github.io/) | 数据库/数据挖掘/内容检索 | A | 2025-10-28 08:00:00 (14 days) | 
-| [VLDB2026](https://www.vldb.org/2026/) | 数据库/数据挖掘/内容检索 | A | 2025-11-02 08:00:00 (19 days) | 
-| [UbiComp/ISWC2025](https://www.ubicomp.org/ubicomp-iswc-2025) | 人机交互与普适计算 | A | 2025-11-02 19:59:59 (20 days) | 
-| [STOC2026](https://acm-stoc.org/stoc2026/) | 计算机科学理论 | A | 2025-11-05 05:59:59 (22 days) | 
-| [ISCA2026](https://iscaconf.org/isca2026/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-11-11 19:59:59 (29 days) | 
-| [CVPR2026](https://cvpr.thecvf.com/Conferences/2026) | 人工智能 | A | 2025-11-14 19:59:00 (32 days) | 
-| [S&P2026](https://www.ieee-security.org/TC/SP2026/) | **网络与信息安全** | A | 2025-11-14 19:59:59 (32 days) | 
-| [PLDI2026](https://pldi26.sigplan.org/) | 软件工程/系统软件/程序设计语言 | A | 2025-11-14 19:59:59 (32 days) | 
-| [DAC2026](https://dac.com/2026/call-for-contributions) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-11-19 09:00:00 (36 days) | 
-| [FSE2026](https://fse.iacr.org/2026/) | **网络与信息安全** | B | 2025-11-24 19:59:59 (42 days) | 
-| [FM2026](https://conf.researchr.org/home/fm-2026) | 软件工程/系统软件/程序设计语言 | A | 2025-12-03 19:59:00 (51 days) | 
-| [DSN2026](https://dsn2026.github.io) | **网络与信息安全** | B | 2025-12-05 19:59:59 (53 days) | 
-| [OSDI2026](https://www.usenix.org/conference/osdi26) | 软件工程/系统软件/程序设计语言 | A | 2025-12-12 06:59:59 (59 days) | 
-| [ACL2026](https://2026.aclweb.org/) | 人工智能 | A | 2026-01-06 19:59:59 (85 days) | 
+| [CHES2026](https://ches.iacr.org/2026/) | **网络与信息安全** | B | 2025-10-16 19:59:59 (02 days) | 
+| [SIGMOD2026](https://2026.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2025-10-18 19:59:00 (04 days) | 
+| [PKC2026](https://pkc.iacr.org/2026/) | **网络与信息安全** | B | 2025-10-25 19:59:59 (11 days) | 
+| [ICDE2026](https://icde2026.github.io/) | 数据库/数据挖掘/内容检索 | A | 2025-10-28 08:00:00 (13 days) | 
+| [VLDB2026](https://www.vldb.org/2026/) | 数据库/数据挖掘/内容检索 | A | 2025-11-02 08:00:00 (18 days) | 
+| [UbiComp/ISWC2025](https://www.ubicomp.org/ubicomp-iswc-2025) | 人机交互与普适计算 | A | 2025-11-02 19:59:59 (19 days) | 
+| [STOC2026](https://acm-stoc.org/stoc2026/) | 计算机科学理论 | A | 2025-11-05 05:59:59 (21 days) | 
+| [ISCA2026](https://iscaconf.org/isca2026/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-11-11 19:59:59 (28 days) | 
+| [CVPR2026](https://cvpr.thecvf.com/Conferences/2026) | 人工智能 | A | 2025-11-14 19:59:00 (31 days) | 
+| [S&P2026](https://www.ieee-security.org/TC/SP2026/) | **网络与信息安全** | A | 2025-11-14 19:59:59 (31 days) | 
+| [PLDI2026](https://pldi26.sigplan.org/) | 软件工程/系统软件/程序设计语言 | A | 2025-11-14 19:59:59 (31 days) | 
+| [DAC2026](https://dac.com/2026/call-for-contributions) | 计算机体系结构/并行与分布计算/存储系统 | A | 2025-11-19 09:00:00 (35 days) | 
+| [FSE2026](https://fse.iacr.org/2026/) | **网络与信息安全** | B | 2025-11-24 19:59:59 (41 days) | 
+| [FM2026](https://conf.researchr.org/home/fm-2026) | 软件工程/系统软件/程序设计语言 | A | 2025-12-03 19:59:00 (50 days) | 
+| [DSN2026](https://dsn2026.github.io) | **网络与信息安全** | B | 2025-12-05 19:59:59 (52 days) | 
+| [OSDI2026](https://www.usenix.org/conference/osdi26) | 软件工程/系统软件/程序设计语言 | A | 2025-12-12 06:59:59 (58 days) | 
+| [ACL2026](https://2026.aclweb.org/) | 人工智能 | A | 2026-01-06 19:59:59 (84 days) | 
 | [LICS2026](https://lics.siglog.org/lics26/) | 计算机科学理论 | A | 2026-01-23 19:59:59 (03 months) | 
 | [CSFW2026](https://csf2026.ieee-security.org/) | **网络与信息安全** | B | 2026-01-30 19:59:59 (03 months) | 
 | [ISSTA2026](https://conf.researchr.org/home/issta-2026) | 软件工程/系统软件/程序设计语言 | A | 2026-01-30 19:59:59 (03 months) | 
