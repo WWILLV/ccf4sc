@@ -1,7 +1,7 @@
 
 ## CCF Conference DDL
 
-> Update: 2025-11-30 10:01:28 (UTC+8)
+> Update: 2025-12-01 10:09:02 (UTC+8)
 >
 > From: https://ccf.tjunsl.com/
 
@@ -29,26 +29,26 @@ function share() {
 
 | 会议 | 类型 | CCF | 截止时间 (UTC+8) |
 | :--: | :--: | :--: | :--: |
-| [VLDB2026](https://www.vldb.org/2026/) | 数据库/数据挖掘/内容检索 | A | 2025-12-02 08:00:00 (01 day ) | 
-| [FM2026](https://conf.researchr.org/home/fm-2026) | 软件工程/系统软件/程序设计语言 | A | 2025-12-03 19:59:00 (03 days) | 
-| [DSN2026](https://dsn2026.github.io) | **网络与信息安全** | B | 2025-12-05 19:59:59 (05 days) | 
-| [OSDI2026](https://www.usenix.org/conference/osdi26) | 软件工程/系统软件/程序设计语言 | A | 2025-12-12 06:59:59 (11 days) | 
-| [ACL2026](https://2026.aclweb.org/) | 人工智能 | A | 2026-01-06 19:59:59 (37 days) | 
-| [ESORICS2026](https://sites.google.com/di.uniroma1.it/esorics2026/home) | **网络与信息安全** | B | 2026-01-10 19:59:59 (41 days) | 
-| [CCS2026](https://www.sigsac.org/ccs/CCS2026/) | **网络与信息安全** | A | 2026-01-15 19:59:59 (46 days) | 
-| [CHES2026](https://ches.iacr.org/2026/) | **网络与信息安全** | B | 2026-01-16 19:59:59 (47 days) | 
-| [SIGMOD2027](https://2027.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2026-01-18 19:59:00 (49 days) | 
-| [IJCAI2026](https://2026.ijcai.org/) | 人工智能 | A | 2026-01-20 19:59:59 (51 days) | 
-| [ACM SIGGRAPH2026](https://s2026.siggraph.org/) | 计算机图形学与多媒体 | A | 2026-01-23 06:00:00 (53 days) | 
-| [LICS2026](https://lics.siglog.org/lics26/) | 计算机科学理论 | A | 2026-01-23 19:59:59 (54 days) | 
-| [SIGIR2026](https://sigir2026.org/en-AU) | 数据库/数据挖掘/内容检索 | A | 2026-01-23 19:59:59 (54 days) | 
-| [ICML2026](https://icml.cc/Conferences/2026) | 人工智能 | A | 2026-01-29 19:59:59 (60 days) | 
-| [CAV2026](https://conferences.i-cav.org/2026/) | 计算机科学理论 | A | 2026-01-29 19:59:59 (60 days) | 
-| [CSFW2026](https://csf2026.ieee-security.org/) | **网络与信息安全** | B | 2026-01-30 19:59:59 (61 days) | 
-| [ISSTA2026](https://conf.researchr.org/home/issta-2026) | 软件工程/系统软件/程序设计语言 | A | 2026-01-30 19:59:59 (61 days) | 
-| [USENIX Security2026](https://www.usenix.org/conference/usenixsecurity26) | **网络与信息安全** | A | 2026-02-06 19:59:59 (68 days) | 
-| [SIGKDD2026](https://kdd2026.kdd.org/) | 数据库/数据挖掘/内容检索 | A | 2026-02-09 19:59:59 (71 days) | 
-| [CRYPTO2026](https://crypto.iacr.org/2026/) | **网络与信息安全** | A | 2026-02-13 19:59:59 (75 days) | 
+| [VLDB2026](https://www.vldb.org/2026/) | 数据库/数据挖掘/内容检索 | A | 2025-12-02 08:00:00 (21:50:57) | 
+| [FM2026](https://conf.researchr.org/home/fm-2026) | 软件工程/系统软件/程序设计语言 | A | 2025-12-03 19:59:00 (02 days) | 
+| [DSN2026](https://dsn2026.github.io) | **网络与信息安全** | B | 2025-12-05 19:59:59 (04 days) | 
+| [OSDI2026](https://www.usenix.org/conference/osdi26) | 软件工程/系统软件/程序设计语言 | A | 2025-12-12 06:59:59 (10 days) | 
+| [ACL2026](https://2026.aclweb.org/) | 人工智能 | A | 2026-01-06 19:59:59 (36 days) | 
+| [ESORICS2026](https://sites.google.com/di.uniroma1.it/esorics2026/home) | **网络与信息安全** | B | 2026-01-10 19:59:59 (40 days) | 
+| [CCS2026](https://www.sigsac.org/ccs/CCS2026/) | **网络与信息安全** | A | 2026-01-15 19:59:59 (45 days) | 
+| [CHES2026](https://ches.iacr.org/2026/) | **网络与信息安全** | B | 2026-01-16 19:59:59 (46 days) | 
+| [SIGMOD2027](https://2027.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2026-01-18 19:59:00 (48 days) | 
+| [IJCAI2026](https://2026.ijcai.org/) | 人工智能 | A | 2026-01-20 19:59:59 (50 days) | 
+| [ACM SIGGRAPH2026](https://s2026.siggraph.org/) | 计算机图形学与多媒体 | A | 2026-01-23 06:00:00 (52 days) | 
+| [LICS2026](https://lics.siglog.org/lics26/) | 计算机科学理论 | A | 2026-01-23 19:59:59 (53 days) | 
+| [SIGIR2026](https://sigir2026.org/en-AU) | 数据库/数据挖掘/内容检索 | A | 2026-01-23 19:59:59 (53 days) | 
+| [ICML2026](https://icml.cc/Conferences/2026) | 人工智能 | A | 2026-01-29 19:59:59 (59 days) | 
+| [CAV2026](https://conferences.i-cav.org/2026/) | 计算机科学理论 | A | 2026-01-29 19:59:59 (59 days) | 
+| [CSFW2026](https://csf2026.ieee-security.org/) | **网络与信息安全** | B | 2026-01-30 19:59:59 (60 days) | 
+| [ISSTA2026](https://conf.researchr.org/home/issta-2026) | 软件工程/系统软件/程序设计语言 | A | 2026-01-30 19:59:59 (60 days) | 
+| [USENIX Security2026](https://www.usenix.org/conference/usenixsecurity26) | **网络与信息安全** | A | 2026-02-06 19:59:59 (67 days) | 
+| [SIGKDD2026](https://kdd2026.kdd.org/) | 数据库/数据挖掘/内容检索 | A | 2026-02-09 19:59:59 (70 days) | 
+| [CRYPTO2026](https://crypto.iacr.org/2026/) | **网络与信息安全** | A | 2026-02-13 19:59:59 (74 days) | 
 | [OOPSLA2026](https://conf.researchr.org/track/splash-2026/oopsla-2026) | 软件工程/系统软件/程序设计语言 | A | 2026-03-18 19:59:59 (03 months) | 
 | [ASE2026](https://conf.researchr.org/home/ase-2026) | 软件工程/系统软件/程序设计语言 | A | 2026-03-27 19:59:59 (03 months) | 
 | [UIST2026](https://uist.acm.org/2026/) | 人机交互与普适计算 | A | 2026-04-01 09:00:00 (04 months) | 
