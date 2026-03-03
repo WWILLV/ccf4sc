@@ -35,6 +35,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add ddl.md
+          git add README.md
           git add ccf.ics
           git add ccf_filter.ics
           git commit -m "Update ddl and ics"
