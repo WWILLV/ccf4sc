@@ -1,7 +1,9 @@
 
 ## CCF Conference DDL
 
-> Update: 2026-03-03 10:31:44 (UTC+8)
+> CCF-Conf Deadline filtering for security
+>
+> Update: 2026-03-03 12:26:18 (UTC+8)
 >
 > From: https://ccf.tjunsl.com/
 
@@ -37,11 +39,11 @@ function share() {
 | [IEEE VIS2026](https://ieeevis.org/year/2026/welcome) | 计算机图形学与多媒体 | A | 2026-04-01 19:59:59 (29 days) | 
 | [ACM MM2026](https://2026.acmmm.org/) | 计算机图形学与多媒体 | A | 2026-04-02 19:59:59 (30 days) | 
 | [SOSP2026](https://sigops.org/s/conferences/sosp/2026/index.html) | 软件工程/系统软件/程序设计语言 | A | 2026-04-02 19:59:59 (30 days) | 
-| [MICRO2026](https://microarch.org/micro59/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2026-04-08 11:59:59 (36 days) | 
+| [MICRO2026](https://microarch.org/micro59/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2026-04-08 11:59:59 (35 days) | 
 | [SC2026](https://sc26.supercomputing.org/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2026-04-09 19:59:00 (37 days) | 
 | [ASPLOS2027](https://www.asplos-conference.org/call-for-papers-asplos27/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2026-04-16 19:59:59 (44 days) | 
 | [CHES2026](https://ches.iacr.org/2026/) | **网络与信息安全** | B | 2026-04-16 19:59:59 (44 days) | 
-| [NSDI2027](https://www.usenix.org/conference/nsdi27) | 计算机网络 | A | 2026-04-17 11:59:59 (45 days) | 
+| [NSDI2027](https://www.usenix.org/conference/nsdi27) | 计算机网络 | A | 2026-04-17 11:59:59 (44 days) | 
 | [RAID2026](https://raid2026.org) | **网络与信息安全** | B | 2026-04-17 19:59:59 (45 days) | 
 | [SIGMOD2027](https://2027.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2026-04-18 19:59:00 (46 days) | 
 | [ESORICS2026](https://sites.google.com/di.uniroma1.it/esorics2026/home) | **网络与信息安全** | B | 2026-04-22 19:59:59 (50 days) | 
