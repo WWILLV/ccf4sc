@@ -3,7 +3,7 @@
 
 > CCF-Conf Deadline filtering for security
 >
-> Update: 2026-05-12 11:36:00 (UTC+8)
+> Update: 2026-05-13 11:44:31 (UTC+8)
 >
 > From: https://ccf.tjunsl.com/
 
@@ -31,24 +31,24 @@ function share() {
 
 | 会议 | 类型 | CCF | 截止时间 (UTC+8) |
 | :--: | :--: | :--: | :--: |
-| [ACM SIGGRAPH ASIA2026](https://asia.siggraph.org/2026/) | 计算机图形学与多媒体 | A | 2026-05-13 19:59:00 (01 day ) | 
-| [EuroSys2027](https://2027.eurosys.org/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2026-05-15 19:59:59 (03 days) | 
-| [RTSS2026](http://2026.rtss.org/) | 交叉/综合/新兴 | A | 2026-05-22 19:59:59 (10 days) | 
-| [ASIACRYPT2026](https://asiacrypt.iacr.org/2026/) | **网络与信息安全** | B | 2026-05-22 19:59:59 (10 days) | 
-| [ACSAC2026](https://www.acsac.org/) | **网络与信息安全** | B | 2026-05-27 19:59:59 (15 days) | 
-| [VLDB2027](https://www.vldb.org/2027/) | 数据库/数据挖掘/内容检索 | A | 2026-06-02 08:00:00 (20 days) | 
-| [SIGOPS ATC2026](https://sigops.org/s/conferences/atc/2026/index.html) | 计算机体系结构/并行与分布计算/存储系统 | A | 2026-06-11 07:59:59 (29 days) | 
-| [ICDE2027](https://icde2027.github.io/) | 数据库/数据挖掘/内容检索 | A | 2026-06-12 08:00:00 (30 days) | 
-| [S&P2027](https://sp2027.ieee-security.org/index.html) | **网络与信息安全** | A | 2026-06-12 19:59:59 (31 days) | 
-| [ICSE2027](https://conf.researchr.org/home/icse-2027) | 软件工程/系统软件/程序设计语言 | A | 2026-07-01 19:59:59 (50 days) | 
-| [SODA2027](https://www.siam.org/conferences-events/siam-conferences/soda27/) | 计算机科学理论 | A | 2026-07-10 19:59:59 (59 days) | 
-| [POPL2027](https://popl27.sigplan.org/) | 软件工程/系统软件/程序设计语言 | A | 2026-07-10 19:59:59 (59 days) | 
-| [SIGMOD2027](https://2027.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2026-07-18 19:59:00 (67 days) | 
-| [AAAI2027](https://aaai.org/conference/aaai/aaai-27/) | 人工智能 | A | 2026-07-28 19:59:59 (77 days) | 
-| [UbiComp/ISWC2026](https://www.ubicomp.org/ubicomp-iswc-2026) | 人机交互与普适计算 | A | 2026-08-02 19:59:59 (82 days) | 
-| [NDSS2027](https://www.ndss-symposium.org/ndss2027/) | **网络与信息安全** | A | 2026-08-20 19:59:59 (03 months) | 
+| [EuroSys2027](https://2027.eurosys.org/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2026-05-15 19:59:59 (02 days) | 
+| [RTSS2026](http://2026.rtss.org/) | 交叉/综合/新兴 | A | 2026-05-22 19:59:59 (09 days) | 
+| [ASIACRYPT2026](https://asiacrypt.iacr.org/2026/) | **网络与信息安全** | B | 2026-05-22 19:59:59 (09 days) | 
+| [ACSAC2026](https://www.acsac.org/) | **网络与信息安全** | B | 2026-05-27 19:59:59 (14 days) | 
+| [VLDB2027](https://www.vldb.org/2027/) | 数据库/数据挖掘/内容检索 | A | 2026-06-02 08:00:00 (19 days) | 
+| [SIGOPS ATC2026](https://sigops.org/s/conferences/atc/2026/index.html) | 计算机体系结构/并行与分布计算/存储系统 | A | 2026-06-11 07:59:59 (28 days) | 
+| [ICDE2027](https://icde2027.github.io/) | 数据库/数据挖掘/内容检索 | A | 2026-06-12 08:00:00 (29 days) | 
+| [S&P2027](https://sp2027.ieee-security.org/index.html) | **网络与信息安全** | A | 2026-06-12 19:59:59 (30 days) | 
+| [ICSE2027](https://conf.researchr.org/home/icse-2027) | 软件工程/系统软件/程序设计语言 | A | 2026-07-01 19:59:59 (49 days) | 
+| [SODA2027](https://www.siam.org/conferences-events/siam-conferences/soda27/) | 计算机科学理论 | A | 2026-07-10 19:59:59 (58 days) | 
+| [POPL2027](https://popl27.sigplan.org/) | 软件工程/系统软件/程序设计语言 | A | 2026-07-10 19:59:59 (58 days) | 
+| [SIGMOD2027](https://2027.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2026-07-18 19:59:00 (66 days) | 
+| [AAAI2027](https://aaai.org/conference/aaai/aaai-27/) | 人工智能 | A | 2026-07-28 19:59:59 (76 days) | 
+| [UbiComp/ISWC2026](https://www.ubicomp.org/ubicomp-iswc-2026) | 人机交互与普适计算 | A | 2026-08-02 19:59:59 (81 days) | 
+| [NDSS2027](https://www.ndss-symposium.org/ndss2027/) | **网络与信息安全** | A | 2026-08-20 19:59:59 (99 days) | 
 | [USENIX Security2027](https://www.usenix.org/conference/usenixsecurity27) | **网络与信息安全** | A | 2026-08-26 19:59:59 (03 months) | 
 | [ASPLOS2027](https://www.asplos-conference.org/asplos2027/cfp/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2026-09-10 19:59:59 (04 months) | 
+| [CHI2027](https://chi2027.acm.org/) | 人机交互与普适计算 | A | 2026-09-11 19:59:59 (04 months) | 
 | [FAST2027](https://www.usenix.org/conference/fast27) | 计算机体系结构/并行与分布计算/存储系统 | A | 2026-09-16 19:59:00 (04 months) | 
 | [NSDI2027](https://www.usenix.org/conference/nsdi27) | 计算机网络 | A | 2026-09-18 11:59:59 (04 months) | 
 | [FSE2027](https://conf.researchr.org/home/fse-2027) | 软件工程/系统软件/程序设计语言 | A | 2026-10-03 19:59:59 (04 months) | 
