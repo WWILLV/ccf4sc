@@ -3,7 +3,7 @@
 
 > CCF-Conf Deadline filtering for security
 >
-> Update: 2026-06-03 12:27:30 (UTC+8)
+> Update: 2026-06-04 12:22:45 (UTC+8)
 >
 > From: https://ccf.tjunsl.com/
 
@@ -31,20 +31,20 @@ function share() {
 
 | 会议 | 类型 | CCF | 截止时间 (UTC+8) |
 | :--: | :--: | :--: | :--: |
-| [SIGOPS ATC2026](https://sigops.org/s/conferences/atc/2026/index.html) | 计算机体系结构/并行与分布计算/存储系统 | A | 2026-06-11 07:59:59 (07 days) | 
-| [ICDE2027](https://icde2027.github.io/) | 数据库/数据挖掘/内容检索 | A | 2026-06-12 08:00:00 (08 days) | 
-| [S&P2027](https://sp2027.ieee-security.org/index.html) | **网络与信息安全** | A | 2026-06-12 19:59:59 (09 days) | 
-| [ICSE2027](https://conf.researchr.org/home/icse-2027) | 软件工程/系统软件/程序设计语言 | A | 2026-07-01 19:59:59 (28 days) | 
-| [VLDB2027](https://www.vldb.org/2027/) | 数据库/数据挖掘/内容检索 | A | 2026-07-02 08:00:00 (28 days) | 
-| [SODA2027](https://www.siam.org/conferences-events/siam-conferences/soda27/) | 计算机科学理论 | A | 2026-07-10 19:59:59 (37 days) | 
-| [POPL2027](https://popl27.sigplan.org/) | 软件工程/系统软件/程序设计语言 | A | 2026-07-10 19:59:59 (37 days) | 
-| [SIGMOD2027](https://2027.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2026-07-18 19:59:00 (45 days) | 
-| [AAAI2027](https://aaai.org/conference/aaai/aaai-27/) | 人工智能 | A | 2026-07-28 19:59:59 (55 days) | 
-| [UbiComp/ISWC2026](https://www.ubicomp.org/ubicomp-iswc-2026) | 人机交互与普适计算 | A | 2026-08-02 19:59:59 (60 days) | 
-| [NDSS2027](https://www.ndss-symposium.org/ndss2027/) | **网络与信息安全** | A | 2026-08-20 19:59:59 (78 days) | 
-| [USENIX Security2027](https://www.usenix.org/conference/usenixsecurity27) | **网络与信息安全** | A | 2026-08-26 19:59:59 (84 days) | 
-| [ASPLOS2027](https://www.asplos-conference.org/asplos2027/cfp/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2026-09-10 19:59:59 (99 days) | 
-| [CHI2027](https://chi2027.acm.org/) | 人机交互与普适计算 | A | 2026-09-11 19:59:59 (03 months) | 
+| [SIGOPS ATC2026](https://sigops.org/s/conferences/atc/2026/index.html) | 计算机体系结构/并行与分布计算/存储系统 | A | 2026-06-11 07:59:59 (06 days) | 
+| [ICDE2027](https://icde2027.github.io/) | 数据库/数据挖掘/内容检索 | A | 2026-06-12 08:00:00 (07 days) | 
+| [S&P2027](https://sp2027.ieee-security.org/index.html) | **网络与信息安全** | A | 2026-06-12 19:59:59 (08 days) | 
+| [ICSE2027](https://conf.researchr.org/home/icse-2027) | 软件工程/系统软件/程序设计语言 | A | 2026-07-01 19:59:59 (27 days) | 
+| [VLDB2027](https://www.vldb.org/2027/) | 数据库/数据挖掘/内容检索 | A | 2026-07-02 08:00:00 (27 days) | 
+| [SODA2027](https://www.siam.org/conferences-events/siam-conferences/soda27/) | 计算机科学理论 | A | 2026-07-10 19:59:59 (36 days) | 
+| [POPL2027](https://popl27.sigplan.org/) | 软件工程/系统软件/程序设计语言 | A | 2026-07-10 19:59:59 (36 days) | 
+| [SIGMOD2027](https://2027.sigmod.org/) | 数据库/数据挖掘/内容检索 | A | 2026-07-18 19:59:00 (44 days) | 
+| [AAAI2027](https://aaai.org/conference/aaai/aaai-27/) | 人工智能 | A | 2026-07-28 19:59:59 (54 days) | 
+| [UbiComp/ISWC2026](https://www.ubicomp.org/ubicomp-iswc-2026) | 人机交互与普适计算 | A | 2026-08-02 19:59:59 (59 days) | 
+| [NDSS2027](https://www.ndss-symposium.org/ndss2027/) | **网络与信息安全** | A | 2026-08-20 19:59:59 (77 days) | 
+| [USENIX Security2027](https://www.usenix.org/conference/usenixsecurity27) | **网络与信息安全** | A | 2026-08-26 19:59:59 (83 days) | 
+| [ASPLOS2027](https://www.asplos-conference.org/asplos2027/cfp/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2026-09-10 19:59:59 (98 days) | 
+| [CHI2027](https://chi2027.acm.org/) | 人机交互与普适计算 | A | 2026-09-11 19:59:59 (99 days) | 
 | [FAST2027](https://www.usenix.org/conference/fast27) | 计算机体系结构/并行与分布计算/存储系统 | A | 2026-09-16 19:59:00 (03 months) | 
 | [NSDI2027](https://www.usenix.org/conference/nsdi27) | 计算机网络 | A | 2026-09-18 11:59:59 (03 months) | 
 | [EuroSys2027](https://2027.eurosys.org/) | 计算机体系结构/并行与分布计算/存储系统 | A | 2026-09-25 19:59:59 (03 months) | 
